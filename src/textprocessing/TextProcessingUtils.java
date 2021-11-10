@@ -9,13 +9,13 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 public class TextProcessingUtils {
-	
+
 	public static String purgeAllPunctuation(String s)
 	{
 		s = s.replaceAll("\\.", " ").replaceAll("’", " ").replaceAll("\\?", " ").replaceAll("«", " ").replaceAll("»"," ").
 				replaceAll("!"," ").
 				replaceAll("…"," ");
-        
+
 		return s;
 	}
 
@@ -24,12 +24,12 @@ public class TextProcessingUtils {
 		text = text.toLowerCase();
 		while(text.startsWith(" "))text = text.substring(1);
 		while(text.contains("  "))text = text.replaceAll("  ", " ");
-		
+
 		return Arrays.asList(text.split(" "));
 	}
-	
+
 	public static String clearOfSymbols(String string) {
-		
+
 		string = string.replaceAll("[^a-zA-Z]", " ");
 		/*char c = (char)160;
 		string = string.replaceAll(c+"", "");
@@ -73,18 +73,20 @@ public class TextProcessingUtils {
 		string = string.replaceAll("<", " ");
 		string = string.replaceAll("<", " ");
 		string = string.replaceAll("<", " ");*/
-		
+
 		while(string.contains("  "))
 			string = string.replaceAll("  ", " ");
 
 		return string;
 	}
-	
+
 	public static Map<List<String>, Integer> getNGrams(String parsedText, int nb) {
-		Map<List<String>, Integer> allNgrams = new HashMap<>();
-		
-		
 		List<String> words = TextProcessingUtils.toListOfWords(parsedText);
+		return getNGrams(words, nb);
+	}
+
+	public static Map<List<String>, Integer> getNGrams(List<String> words, int nb) {
+		Map<List<String>, Integer> allNgrams = new HashMap<>();
 		List<String> lastFew = new LinkedList<>();
 		for(String s: words)
 		{
@@ -114,11 +116,11 @@ public class TextProcessingUtils {
 	public static int countOccurrences(String s, char c) {
 		int count = 0;
 		for (int i = 0; i < s.length(); i++) {
-		    if (s.charAt(i) == c) {
-		        count++;
-		    }
+			if (s.charAt(i) == c) {
+				count++;
+			}
 		}
 		return count;
 	}
-	
+
 }
