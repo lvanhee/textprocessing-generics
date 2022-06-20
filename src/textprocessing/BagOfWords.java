@@ -78,5 +78,10 @@ public class BagOfWords {
 	{
 		return (((BagOfWords)o).occurrences.equals(occurrences));
 	}
+	
+	public String toString() {
+		String res = getWordsSortedByDecreasingNumberOfOccurrences().stream().map(x->x+":"+getNbOccurrences(x)).reduce("", (x,y)->x+"\n"+y);
+		return res;
+	}
 
 }

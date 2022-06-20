@@ -1,6 +1,8 @@
 package textprocessing;
 
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
@@ -24,8 +26,9 @@ public class TextProcessingUtils {
 		text = text.toLowerCase();
 		while(text.startsWith(" "))text = text.substring(1);
 		while(text.contains("  "))text = text.replaceAll("  ", " ");
-
-		return Arrays.asList(text.split(" "));
+		
+		List<String> res =Arrays.asList(text.split(" ")); 
+		return res;
 	}
 
 	public static String clearOfSymbols(String string) {
@@ -121,6 +124,24 @@ public class TextProcessingUtils {
 			}
 		}
 		return count;
+	}
+
+	public static String toRegex(String s) {
+		return java.util.regex.Pattern.quote(s);
+	}
+
+	public static int getNumberOfOccurrencesOf(String in, List<String> longTextToSearch) {
+		List<String> listOfWord = TextProcessingUtils.toListOfWords(in);
+		
+		int total = 0;
+		while(true)
+		{
+			int sublist = Collections.indexOfSubList(longTextToSearch, listOfWord);
+			if(sublist==-1) break;
+			longTextToSearch = longTextToSearch.subList(sublist+1, longTextToSearch.size());
+			total++;
+		}
+		return total;
 	}
 
 }
