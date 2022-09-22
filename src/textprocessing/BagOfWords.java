@@ -83,5 +83,14 @@ public class BagOfWords {
 		String res = getWordsSortedByDecreasingNumberOfOccurrences().stream().map(x->x+":"+getNbOccurrences(x)).reduce("", (x,y)->x+"\n"+y);
 		return res;
 	}
+	
+	public static void main(String[] args) {
+		String s = "a b c a";
+		System.out.println(BagOfWords.newInstance(s, x->true, false));
+	}
+
+	public boolean contains(String string) {
+		return getNbOccurrences(string)>0;
+	}
 
 }
