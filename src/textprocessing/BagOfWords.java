@@ -1,12 +1,15 @@
 package textprocessing;
 
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.SortedSet;
 import java.util.TreeSet;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
@@ -91,6 +94,45 @@ public class BagOfWords {
 
 	public boolean contains(String string) {
 		return getNbOccurrences(string)>0;
+	}
+
+	public Map<String, Double> getFrequencyMap() {
+		int total = occurrences.values().stream().reduce(0, (x,y)->x+y);
+		
+		Map<String, Double> res = occurrences.keySet().stream().collect(Collectors.toMap(Function.identity(), 
+				x->(double)occurrences.get(x)/(double)total));
+		return res;
+	}
+
+	public Set<String> getAllWords(BagOfWords corpusBag) {
+		return occurrences.keySet();
+	}
+
+	public static BagOfWords newInstance(List<String> listOfString) {
+		Map<String, Integer> occurrences = new HashMap<>();
+		for(String s:listOfString)
+			if(!occurrences.containsKey(s))
+				occurrences.put(s, 1);
+			else occurrences.put(s, occurrences.get(s)+1);
+		
+		return new BagOfWords(occurrences);
+	}
+
+	public static BagOfWords filter(BagOfWords bow, Predicate<String> filter) {
+		Map<String, Integer> occurrences = 
+				bow.occurrences.keySet().stream().filter(x->filter.test(x))
+				.collect(Collectors.toMap(Function.identity(), x->bow.getNbOccurrences(x)));
+		return new BagOfWords(occurrences);
+	}
+
+	public static BagOfWords mergeAll(Collection<BagOfWords> bows) {
+		Map<String, Integer> count = new HashMap<>();
+		for(BagOfWords b:bows)
+			for(String s: b.occurrences.keySet())
+				if(count.containsKey(s))
+					count.put(s, count.get(s)+b.occurrences.get(s));
+				else count.put(s, b.occurrences.get(s));
+		return new BagOfWords(count);
 	}
 
 }
