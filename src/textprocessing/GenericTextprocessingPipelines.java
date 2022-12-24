@@ -20,13 +20,15 @@ public class GenericTextprocessingPipelines {
 		return document.tokens().stream()
 				.filter(x->{
 					String tag = x.tag();
-					if(x.lemma().equals("Ruth"))
+					if(x.lemma().equals("("))
 						System.out.println();
 				return !x.tag().equals("CD")&&!x.tag().equals("DT")
 						&&!x.tag().equals("IN")
 						&&!x.tag().equals("HYPH")
 						&&!x.tag().equals("TO")
 						&&!x.tag().equals("POS")
+						&&!x.tag().equals("-RRB-")
+						&&!x.tag().equals("-LRB-")
 						&&!x.tag().equals("PRP")
 						&&!x.tag().equals("NNP")//REMOVES CHARACTER NAMES!!!
 						&&!x.tag().equals(",")
@@ -38,7 +40,7 @@ public class GenericTextprocessingPipelines {
 				.collect(Collectors.toList());
 	}
 	
-	public static BagOfWords getLemmatizedBowOfRelevantWords(String s)
+	public static BagOfWords getLemmatizedBowOfRelevantWordsWithoutNames(String s)
 	{
 		return BagOfWords.newInstance(getLemmatizedListOfRelevantWords(s));
 	}
