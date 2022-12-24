@@ -20,8 +20,8 @@ public class GenericTextprocessingPipelines {
 		return document.tokens().stream()
 				.filter(x->{
 					String tag = x.tag();
-					if(x.lemma().equals("("))
-						System.out.println();
+					/*if(x.lemma().equals("("))
+						System.out.println();*/
 				return !x.tag().equals("CD")&&!x.tag().equals("DT")
 						&&!x.tag().equals("IN")
 						&&!x.tag().equals("HYPH")
