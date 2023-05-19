@@ -144,4 +144,9 @@ public class TextProcessingUtils {
 		return total;
 	}
 
+	public static String delatexify(String string) {
+		return string.replaceAll("\\\\`e", "è").replaceAll("\\\\'e", "é")
+				.replaceAll("\\\\\"o", "ö");
+	}
+
 }

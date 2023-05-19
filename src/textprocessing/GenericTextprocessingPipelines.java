@@ -1,6 +1,8 @@
 package textprocessing;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Properties;
 import java.util.stream.Collectors;
 
@@ -12,6 +14,11 @@ public class GenericTextprocessingPipelines {
 	
 	private static Properties props = new Properties();
 	static {props.setProperty("annotators", "tokenize,pos,lemma");}
+	
+	private static Map<String, String> canonicalForm = new HashMap<>();
+	static {
+		canonicalForm.put("modeling", "modelling");
+	}
 	
 	private static StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 	
@@ -38,6 +45,22 @@ public class GenericTextprocessingPipelines {
 				.map(y->y.lemma())
 				.filter(x->!EnglishStopwords.isStopWord(x))
 				.collect(Collectors.toList());
+	}
+	
+	public static List<String> getLemmatizedListOfWords(String s, boolean deleteDashes, boolean canonicalOrthographFixer){
+		if(deleteDashes)
+			s = s.replaceAll("-", "");
+		CoreDocument document = pipeline.processToCoreDocument(s);
+		List<String> res = document.tokens().stream()
+		.map(y->y.lemma())
+		.collect(Collectors.toList());
+		
+		if(canonicalOrthographFixer)
+			res = res.stream().map(x->{if(canonicalForm.containsKey(x)) return canonicalForm.get(x); else return x;}).collect(Collectors.toList());
+		
+		return res;
+			
+		
 	}
 	
 	public static BagOfWords getLemmatizedBowOfRelevantWordsWithoutNames(String s)
