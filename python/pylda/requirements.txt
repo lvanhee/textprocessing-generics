@@ -1,0 +1,7 @@
+pandas
+gensim
+nltk
+wordcloud
+pyLDAvis
+spacy
+pygments

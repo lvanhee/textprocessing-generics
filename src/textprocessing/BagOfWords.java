@@ -135,4 +135,62 @@ public class BagOfWords {
 		return new BagOfWords(count);
 	}
 
+	public static BagOfWords newInstance(String allText) {
+		return newInstance(allText, (String x)->true, false);
+	}
+
+	public static Set<String> getTermsOccurringFrequentlyAcrossACorpus
+	(Collection<String> values, double minFrequencyInTheTextToBeConsidered, double minFrequencyInTextsOfTheCorpus) 
+	{
+		List<BagOfWords> datasetAsBows = values.stream()
+				.map(x->BagOfWords.newInstance(x)).collect(Collectors.toList());
+		
+		return getTermsOccurringFrequentlyAcrossACorpus(datasetAsBows, minFrequencyInTheTextToBeConsidered, minFrequencyInTextsOfTheCorpus);
+	}
+
+	public static Set<String> getEsothericTermsAcrossACorpus(Collection<List<String>> values) {
+		Set<BagOfWords> datasetAsBows = values.stream()
+				.map(x->BagOfWords.newInstance(x)).collect(Collectors.toSet());
+		
+		BagOfWords allWordsOfDataset = BagOfWords.mergeAll(datasetAsBows);
+		
+		Set<String> res = 
+		allWordsOfDataset.getFrequencyMap().keySet()
+		.stream().filter(x->datasetAsBows.stream().filter(y->y.contains(x)).count()==1l)
+		.collect(Collectors.toSet());
+		
+		return res;
+	}
+
+	public static Set<String> getTermsOccurringFrequentlyAcrossACorpusStringList(
+			Collection<List<String>> corpus,
+			double minFrequencyInTheTextToBeConsidered, double minFrequencyInTextsOfTheCorpus)
+	{
+		List<BagOfWords> datasetAsBows = corpus.stream().map(x->BagOfWords.newInstance(x)).collect(Collectors.toList());
+		return getTermsOccurringFrequentlyAcrossACorpus(datasetAsBows,minFrequencyInTheTextToBeConsidered, minFrequencyInTextsOfTheCorpus);
+	}
+
+	public static Set<String> getTermsOccurringFrequentlyAcrossACorpus(
+			List<BagOfWords> datasetAsBows,
+			double minFrequencyInTheTextToBeConsidered, double minFrequencyInTextsOfTheCorpus) {
+		BagOfWords allWordsOfDataset = BagOfWords.mergeAll(datasetAsBows);
+		
+		Map<String,Double>
+		allFrequencyOverTheCorpusOfDocumentsHavingAMinimumFrequencyOfAGivenWord = 
+				allWordsOfDataset.getFrequencyMap().keySet()
+				.stream()
+				.collect(Collectors.toMap(Function.identity(),
+						x->
+				(double)datasetAsBows.stream().filter(y->
+				y.getNbOccurrences(x)>0 &&
+				y.getFrequencyMap().get(x)>minFrequencyInTheTextToBeConsidered).count()
+				/
+				datasetAsBows.size()));
+
+		Set<String> res = allFrequencyOverTheCorpusOfDocumentsHavingAMinimumFrequencyOfAGivenWord.keySet().stream().filter(
+				x->allFrequencyOverTheCorpusOfDocumentsHavingAMinimumFrequencyOfAGivenWord.get(x)>minFrequencyInTextsOfTheCorpus).collect(Collectors.toSet());
+
+		return res;
+	}
+
 }

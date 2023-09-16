@@ -23,7 +23,8 @@ public class GenericTextprocessingPipelines {
 	private static StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
 	
 	public static List<String> getLemmatizedListOfRelevantWords(String s) {
-		CoreDocument document = pipeline.processToCoreDocument(s);
+		CoreDocument document = pipeline.processToCoreDocument(s);		
+		
 		return document.tokens().stream()
 				.filter(x->{
 					String tag = x.tag();
@@ -37,13 +38,23 @@ public class GenericTextprocessingPipelines {
 						&&!x.tag().equals("-RRB-")
 						&&!x.tag().equals("-LRB-")
 						&&!x.tag().equals("PRP")
-						&&!x.tag().equals("NNP")//REMOVES CHARACTER NAMES!!!
+						&&!x.tag().equals("NNP")
 						&&!x.tag().equals(",")
 						&&!x.tag().equals("``")
 						&&!x.tag().equals("''")
 						&&!x.tag().equals(".");})
 				.map(y->y.lemma())
-				.filter(x->!EnglishStopwords.isStopWord(x))
+				.filter(x->{
+					return !EnglishStopwords.isStopWord(x);
+					})
+				.filter(x->!x.matches("\\p{Punct}*"))
+				.filter(x->!x.equals("“"))
+				.filter(x->!x.equals("?"))
+				.map(x->{
+					if(x.equals("."))
+						System.out.println();
+					return x;
+				})
 				.collect(Collectors.toList());
 	}
 	
@@ -59,12 +70,21 @@ public class GenericTextprocessingPipelines {
 			res = res.stream().map(x->{if(canonicalForm.containsKey(x)) return canonicalForm.get(x); else return x;}).collect(Collectors.toList());
 		
 		return res;
-			
+	}
+	
+	public static List<String> getNonLematizedListOfWords(String s) {
+		CoreDocument document = pipeline.processToCoreDocument(s);
+		List<String> res = document.tokens().stream()
+		.map(y->y.originalText())
+		.collect(Collectors.toList());
 		
+		return res;
 	}
 	
 	public static BagOfWords getLemmatizedBowOfRelevantWordsWithoutNames(String s)
 	{
 		return BagOfWords.newInstance(getLemmatizedListOfRelevantWords(s));
 	}
+
+
 }

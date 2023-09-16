@@ -149,4 +149,8 @@ public class TextProcessingUtils {
 				.replaceAll("\\\\\"o", "ö");
 	}
 
+	public static String conformToWindowsFileFormat(String s) {
+		return s.replaceAll(":", "").replaceAll("\\?", "").replaceAll("\\*", "");
+	}
+
 }

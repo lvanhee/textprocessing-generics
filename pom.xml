@@ -21,5 +21,22 @@
 			<artifactId>stanford-corenlp</artifactId>
 			<version>4.5.1</version>
 		</dependency>
-	</dependencies>
+  		<dependency>
+  			<groupId>caching-utils</groupId>
+  			<artifactId>caching-utils</artifactId>
+  			<version>0.0.1-SNAPSHOT</version>
+  		</dependency>
+  		
+  		<dependency>
+    		<groupId>com.kennycason</groupId>
+    		<artifactId>kumo-core</artifactId>
+    		<version>1.28</version>
+		</dependency>
+  		
+  		<dependency>
+			<groupId>org.apache.pdfbox</groupId>
+			<artifactId>pdfbox-app</artifactId>
+			<version>2.0.21</version>
+		</dependency>
+  </dependencies>
 </project>

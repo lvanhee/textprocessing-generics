@@ -1,0 +1,3052 @@
+ 
+Application of traceability in deterrence of illegal, 
+unreported and unregulated fishing: an analysis model of 
+EU Regulation 1005/2008 and 
+EU Regulation Proposal 2008/0216 (CNS) 
+ 
+By: Melania Bori? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Master Thesis in International Fisheries Management 
+(30 credits) 
+Institute for Aquatic Bio-Science 
+Norwegian College of Fishery Science 
+University of Tromsø 
+Norway 
+ 
+May 2009 
+ 
+ 
+ 
+ 
+ 
+ 
+I wish to thank: 
+ 
+Jorge SANTOS, 
+ for his excellent guidance, thorough commitment 
+and perfect supervision; 
+ 
+Emily ANDREWS-CHOUICHA (OECD), 
+Marianne BRANDT (ICES), Duncan COPELAND (EJF), 
+Peter FLEWWELLING (NFDS), Petter OLSEN (NOFIMA), 
+Claire WELLING (ICES), Peter ØREBECH (NFH, UiTø), 
+for their priceless help; 
+ 
+Silvia BUDU, 
+for her daily moral support; 
+ 
+Cornel BORI?, 
+ for his accurate proofreading, 
+precious support and understanding; 
+ 
+my MOTHER and my FATHER, 
+for everything. 
+ 
+ 
+ 
+ABSTRACT 
+Illegal, unreported and unregulated (IUU) fishing is one important concern of fisheries managers 
+and consumers alike all over the world. Recent IUU fishing deterrence strategies consider 
+traceability the most promising indirect method to prevent its occurrence. Two of the three new 
+pillars of the European Union Common Fisheries Policy (EU Regulation 1005/2008; EU Regulation 
+Proposal 2008/0216 (CNS)) were explicitly developed to address this concern. These regulations 
+attempt to introduce market monitoring measures that prevent IUU fish from entering legitimate 
+trade channels in the Community. The leading purpose of this study was twofold: to analyse if the 
+traceability related provisions of these two legal documents are relevant for IUU fishing deterrence, 
+and to test if they fulfil de lege lata the traceability requirements of the chain of custody. In order to 
+achieve these aims, a novel analytical tool that was suitable for the dual purposes had to be 
+constructed. Model 1 was conceived to identify the overlapping of the necessary data for identifying 
+IUU components (actors or products) with the traceability data recorded in the documentation 
+imposed by the legal provisions at each critical traceability control point. Model 2 was designed to 
+identify the fulfilment of the chain of custody requirements along the traceability control points. 
+The present findings indicate that the traceability data retained according to the new legal EU norms 
+have little relevance to be used effectively in deterrence of IUU operations. The product data are not 
+constantly recorded at each critical traceability point, and important information to help identify 
+IUU fishing actors and products is not retained. Similarly, the system put into place by both legal 
+documents does not fulfil the requirements of a traceability scheme. Unique identification is not 
+given to trade units, thus hindering their traceability along the supply chain. Furthermore, chain of 
+custody requirements are scant, allowing IUU fish to infiltrate the trade through the exposed links 
+of the chain. Although the two analytical models utilized are preliminary, they can be further 
+developed to improve comprehensiveness and depth of scrutiny. Further, both models are replicable 
+and flexible, as they can be used to analyse any legal text that puts into place a traceability system 
+for the fish supply chain. Model 1 can be applied on single documents required by traceability 
+systems at any critical traceability control point. Model 2 can be used to analyse a self standing 
+traceability system implemented by any company. The models developed and the main findings of 
+the study are of interest to both Community and third-country entities involved in a way or another 
+in IUU fishing deterrence, traceability in fish supply chains or legislation development. Future 
+studies should focus on the design of a traceability system for fishery products that fits the purpose 
+of IUU fishing deterrence under a de lege ferenda approach. 
+Key-words: traceability; IUU fishing; chain of custody; critical control point; EU Regulation 
+1005/2008; EU Regulation Proposal 2008/0216 (CNS), de lege lata. 
+You are kindly requested to contact the author? prior to citing the present material. 
+ 
+? melania.borit@yahoo.com 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+LIST OF FIGURES AND TABLES ??????????.??????????....1 
+ 
+ABBREVIATIONS ?????????????????????????..??.2 
+ 
+1. INTRODUCTION ???????????????????????????4 
+1.1 Settings ????????????????????????????4 
+1.2 Problems to address and research questions ??????????????4 
+1.3 Approach ???????????????????????????.6 
+1.3.1 Constraints ???????????????????????6 
+1.3.2 Research strategy, theory, hypothesis, objective ????????..7 
+1.3.3 Methodology ??????????????????????7 
+1.4 Structure of the paper ??????????????????????..7 
+ 
+2. ILLEGAL, UNREPORTED AND UNREGULATED FISHING ?????????9 
+2.1 Background ??????????????????????????..9 
+2.1.1 Definitions ???????????????????????9 
+2.1.2 State of art in IUU fishing ????????????????..12 
+2.1.3 The extent of IUU fishing in EU ??????????????13 
+2.2 Drivers of IUU fishing ?????????????????????...15 
+2.3 Management measures in place against IUU fishing ??????????16 
+2.4 Compliance with FAO Code of Conduct for Responsible 
+ Fisheries requirements with respect to IUU fishing ??????????..18 
+ 
+3. TRACEABILITY 
+3.1 Definitions of traceability, categories and drivers ???????????.24 
+3.1.1 Definitions ??????????????????????..24 
+3.1.2 Categories ??????????????????????...25 
+3.2 Legislation, standardisation, certification and eco-labelling ???????.28 
+3.2.1 Legislation ??????????????????????..28 
+3.2.2 Standardisation ????????????????????...30 
+ 
+ 
+3.2.3 Certification ??????????????????????31 
+3.2.4 Eco-labelling ?????????????????????...32 
+3.1 Traceability systems ??????????????????????..34 
+3.3.1 Types of systems ????????????????????.34 
+3.3.2 Components ??????????????????????35 
+3.3.3 Characteristics ?????????????????????.36 
+3.3.4 Traceable units ?????????????????????37 
+3.3.5 Data recording of unique ID-codes starting from lowest unit ???38 
+3.3.6 The importance of weighing ???????????????...40 
+3.3.7 Transformations/operations ????????????????41 
+3.3.8 Critical traceability control points ?????????????..43 
+3.4 Analytical methods used in fish traceability investigations ???????..45 
+ 
+4. TRACEABILITY AND IUU FISHING DETERRENCE, ANALYSIS OF LINKS ?...47 
+4.1 Introduction ??????????????????????????47 
+4.2 Method: description, materials, premises, limitations, suggestions ????...47 
+4.2.1 General methodology and materials ?????????????47 
+4.2.2 Model 1: Acquisition of IUU fishing identification 
+ data by means of traceability ???????????????..48 
+4.2.3 Model 2: Assurance of chain of custody by means of traceability ?.52 
+4.3 Results ????????????????????????????53 
+4.3.1 Output ????????????????????????..53 
+4.3.2 Model 1: Acquisition of IUU fishing identification data 
+ by means of traceability results ??????????????...57 
+4.3.3 Model 2: Assurance of chain of custody by 
+ means of traceability results ????????????????60 
+ 
+5. DISCUSSION AND CONCLUSIONS ??????????????????...61 
+5.1 Discussion ??????????????????????????..61 
+5.1.1 The Models ??????????????????????..61 
+5.1.2 Eco-labelling and IUU fish traceability ???????????..63 
+5.1.3 Authentication/genetic traceability and IUU fishing deterrence ??.64 
+5.1.4 Facilitating the traceability of fishery products ????????..66 
+5.2 Conclusions ?????????????????????????...67 
+ 
+ 
+ 
+REFERENCES ?????????????????????????????69 
+ 
+APPENDIX 1: Potential impacts of IUU fishing ????????????????73 
+ 
+APPENDIX 2: Groups of important economic and 
+ social drivers of IUU fishing activities ?????????????...74 
+ 
+APPENDIX 3: Available measures against IUU fishing activities ?????????.75 
+ 
+APPENDIX 4: Relevant EU legislation for fish supply chain ???????????77 
+ 
+APPENDIX 5: Standards, certification schemes and 
+ labels operating in fisheries and aquaculture ???????????.78 
+ 
+APPENDIX 6. Guide to unique identification of traceable units ??????????79 
+ 
+APPENDIX 7: Additional types of operations/transformations of traceable units 
+ and data addition and un-grouping ???????????????.82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 1  
+LIST OF FIGURES AND TABLES 
+ 
+FIGURES: 
+ 
+Figure 1: Illustration of types of IUU fishing activities. PAGE 11. 
+Figure 2: Estimated global fish landings 1950-2004, including estimates of different types 
+of IUU fishing. PAGE 11. 
+Figure 3: Global incidence of illegal fishing (based on data from 1980-2003). PAGE 12. 
+Figure 4: Summary of estimated IUU fishing costs of all EU Member states for the IUU 
+activities carried in EU?s waters. PAGE 14. 
+Figure 5: The Large Marine Ecosystems adjacent to the coastlines of EU Member States 
+and the amount of IUU fishing activities done by EU and non-EU vessels inside EU EEZs. 
+PAGE 14. 
+Figure 6: Relationship between the amount of illegal and un-reported fishing (expressed as 
+a proportion of the reported catch that is additionally taken as illegal and unreported catch) 
+and an average of four World Bank indices of governance (Government Effectiveness, 
+Regulatory Quality, Rule of Law and Control of Corruption), measured in 2003. PAGE 16. 
+Figure 7. The chain of IUU fishing operations. PAGE 17. 
+Figure 8. ?Codeometer? showing estimated overall compliance of the top 53 marine 
+fishing countries FAO (UN) Code of Conduct for Responsible Fisheries. PAGE 19. 
+Figure 9. Bar chart showing compliance with the Code of Conduct in controlling illegal 
+fishing for the 53 top fishing countries. PAGE 20. 
+Figure 10. Country scores on ?Are vessels fishing illegally in the fisheries?? PAGE 21. 
+Figure 11. Countries scores on ?How effective is control of access to stop illegal fishing?? 
+PAGE 22. 
+Figure 12. Average scores for effectiveness of observer schemes, catch inspections and 
+vessel monitoring. PAGE 22. 
+Figure 13. Traceability along the food supply chain. Filled arrows show the product flow; 
+open arrows show the information flow. PAGE 25. 
+Figure 14. External and internal traceability, downstream and upstream. PAGE 27. 
+Figure 15. Traceability drivers in food sector. PAGE 28. 
+Figure 16. Summary of chain of custody from a certified fishery throughout to consumer. 
+PAGE 33. 
+ 
+ - 2 Figure 17. Fundamental structure of a traceability system. PAGE 36. 
+Figure 18. Relation between internal batch and external trade unit. PAGE 38. 
+Figure 19. Trade units flow. PAGE 40. 
+Figure 20. IUU fish entering points into the legitimate fish supply chain. 
+Figure 21. Decision tree to identify critical traceability points in the fish supply chain. 
+ 
+TABLES 
+ 
+Table 1 A. Traceability systems: purpose, objective, attributes, standards and examples. 
+PAGE 34. 
+Table 1 B. Supplement to traceability systems: purpose, objective, attributes, standards and 
+examples. PAGE 35. 
+Table 2. Traceable units: trade unit, logistic unit, batch. PAGE 37. 
+Table 3. Operations/transformations and their exposure to infiltration with IUU fishery 
+products. PAGE 41. 
+Table 4. Output of Model 1: Acquisition of IUU fishing identification data by means of 
+traceability. Analysis of EU Regulation Proposal 2008/0216 (CNS). PAGE 54. 
+Table 5. Output of Model 1: Acquiring IUU fishing identification data by means of 
+traceability. Analysis of EU Regulation 1005/2008. PAGE 55. 
+Table 6. Output of Model 2: Assurance of chain of custody by means of traceability. 
+Analysis of EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 (CNS). 
+PAGE 56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 3  
+ABBREVIATIONS 
+ 
+ACP states - alternately called the Group of African, Caribbean and Pacific countries, are 
+ the countries that are signatories of the Lomé Convention with the European 
+ Commission (48 African, 16 Caribbean and 15 Pacific countries). 
+AIS ? automatic information system. 
+CFP - Common Fisheries Policy. 
+CTCP - critical traceability control point. 
+EU - European Union. 
+FAO - Food and Agricultural Organization of the United Nations. 
+IPOA-IUU - International Plan of Action to Prevent, Deter and Eliminate Illegal, 
+ Unreported and Unregulated Fishing. 
+ISO - International Standard Organization. 
+IUU - illegal, unreported and unregulated . 
+LU ? logistic unit. 
+MCS ? Monitoring, Control and Surveillance. 
+OECD - Organisation for Economic Co-operation and Development. 
+RFMO - regional fisheries management organization. 
+TU ? trade unit. 
+UNCLOS ? United Nations Convention on the Law of the Sea. 
+VDS ? vessel detecting system. 
+VMS ? vessel monitoring system. 
+WWF - World Wildlife Fund for Nature. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 4  
+1. INTRODUCTION 
+ 
+1.1 Settings 
+By nature, the extent of un-controlled fishing is difficult to quantify. But, as suggested by 
+the Food and Agricultural Organization of the United Nations (FAO) in 2001, the problem 
+of illegal, unreported and unregulated (IUU) fishing in world fisheries is of serious and 
+increasing concern. Some claim that by the beginning of the 21st Century, almost 30% of 
+the global fish catch could be counted as IUU in its diverse forms, with a total catch value 
+of nearly 1.500 million USD1. When confronted with IUU fishing, weak national and 
+regional fisheries management organizations that strive to achieve sound management 
+goals may fail. Possible and logical consequences are the loss of both short and long-term 
+social and economic opportunities, and negative effects on food security and 
+environmental protection. Un-confronted IUU fishing can lead to the collapse of a fishery 
+or seriously impair efforts to rebuild stocks that have already been depleted. Existing 
+international instruments addressing IUU fishing have not been effective due to a lack of 
+political will, priority, capacity and resources to ratify or accede to and implement them2. 
+By introducing fish traceability in the fisheries sector, it is believed that it will be possible 
+to check more closely what enters production and what leaves at the other end, confronting 
+thereby IUU fishing, and improving the fisheries management at all levels. 
+ 
+The central notions of the present paper are IUU fishing and traceability, as defined in the 
+FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and 
+Unregulated Fishing (2001), and respectively by the International Standard Organization 
+(ISO) and the European Union (EU). 
+ 
+1.2 Problems to address and research questions 
+The purpose of this study is to analyse if the traceability related provisions of two new EU 
+legal instruments, the EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 
+(CNS), are relevant and sufficient to prevent and deter IUU fishing and to fulfil the 
+traceability requirements of the chain of custody. 
+ 
+ 
+1 Sumaila, R. (2008). 
+2 FAO (2001) 1. 
+ 
+ - 5 EU Regulation 1005/2008 establishing a Community system to prevent, deter and eliminate 
+illegal, unreported and unregulated fishing. 
+- Type: regulation. 
+- Date of entry to force: 29.10.2008. 
+- Date of application: 01.01.2010. 
+- In what concerns the catch certificate, it applies to all fish to be imported/exported to/from 
+EU. 
+- It is considered to be one of the most important legal steps in deterring the IUU 
+operations, both inside and outside the Community?s waters. 
+ 
+EU Regulation Proposal 2008/0216 (CNS) establishing a Community control system for 
+ensuring compliance with the rules of the Common Fisheries Policy. 
+- Type: proposal for a regulation. 
+- Date of entry to force: unknown; it will be the day following its publication in the Official 
+Journal of the EU. Most probably the text will be published in the second semester of 2009. 
+- Date of application: 01.01.2010. If the norm is not published in the Official Journal of the 
+EU by the end of 2009, its date of application will be postponed. 
+- It refers to operations related to Community fishing vessels. 
+- It enforces trade controls that should prevent products obtained through IUU operations 
+from entering the fish supply chain of the EU. 
+ 
+The two legal documents created by the EU were selected for analysis as they constitute the 
+new pillars of the Union?s Common Fisheries Policy (CFP). Their impact on the EU 
+relations with third-countries and on the international trade with fishery products is yet not 
+fully assessed. Nevertheless, it is believed that these legal instruments put in place a 
+comprehensive traceability system that will prevent IUU fish entering EU trade, and thus 
+help deterring IUU activities elsewhere, as well. 
+ 
+Related issues such as eco-labelling and genetic traceability are also included in the present 
+analysis, for the sake of relatedness and complementarity. 
+ 
+ 
+ 
+ 
+ 
+ - 6 The following research questions are addressed by this study: 
+ 
+- primary research questions: 
+ How can a model be developed in order to analyse the connexion between IUU fishing 
+deterrence and the fish traceability put in place by the EU Regulation 1005/2008 and 
+EU Regulation Proposal 2008/0216 (CNS)? 
+ What is the law (EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 
+(CNS)) in what concerns traceability issues? 
+ What are the limitations of the fish traceability put in place by the EU Regulation 
+1005/2008 and EU Regulation Proposal 2008/0216 (CNS) to deter IUU fishing? 
+ 
+- secondary research questions: 
+ What is the connexion between eco-labelling and IUU fish traceability? 
+ What is the connexion between genetic traceability and IUU fishing deterrence? 
+ 
+1.3 Approach 
+1.3.1 Constraints 
+Due to the breadth of the topic, the paper will focus only on the theoretical, legal and some 
+operational aspects of the following issues: IUU fishing operations and the relevance of the 
+market/trade management measures; IUU fishing in EU; traceability systems (including 
+eco-labelling and genetic traceability); and the new EU legislation related to deterrence of 
+IUU fishing by means of fish traceability (EU Regulation 1005/2008; EU Regulation 
+Proposal 2008/0216 (CNS)). 
+ 
+It is not an ambition of the present work to address other national or regional policies, 
+legislation or operational initiatives other than those mentioned above. Neither, given the 
+limited scope of the research work, may the paper compare the mentioned EU legislation 
+to other Community traceability related norms, nor assesses its relations to the relevant 
+international law. Moreover, the paper does not describe traceability standards in order to 
+evaluate or improve them, but only to assess if the new EU legal documents meet their 
+requirements. Further, this is a descriptive study and the provision of advice for 
+improvement of the traceability system proposed through the provisions of EU Regulation 
+1005/2008 and EU Regulation Proposal 2008/0216 (CNS) would be out of bounds. 
+Furthermore, the paper does not assess the applicability, the implementation or 
+ 
+ - 7 enforcement of the regulations. Finally, the paper is not a de lege ferenda type of study as 
+it does not provide advice about how the traceability regulations comprised in the two 
+norms should be. What this paper is about, is presenting the law as it is, thus being a de 
+lege lata type of study. 
+ 
+1.3.2 Research strategy, theory, hypothesis, objective 
+The research strategy used is abductive reasoning (?application of traceability entails 
+reduction of IUU fishing?) in the context of an interdisciplinary approach that combines 
+data from biology, juridical sciences, forensics, and economics. At the same time, this 
+paper is constructed on the descriptive theory paradigm, therefore it describes and 
+interprets how things are, but not how they should be, starting from the presumption that 
+fish traceability will in the future be the indirect tool of excellence to eliminate IUU fish 
+from the EU trade. 
+ 
+1.3.3 Methodology 
+In order to achieve the proposed goal, a mixture of qualitative and quantitative methods 
+was used: doctrinal (theoretical) and non-doctrinal (descriptive) legal research; secondary 
+data analysis; qualitative data analysis; case study; informal interviews. In order to achieve 
+the aim of the paper two models were designed. Model 1 was conceived to identify the 
+overlapping of the necessary data for identifying IUU components (actors or products) 
+with the traceability data recorded in the documentation imposed by the legal provisions at 
+each critical traceability control point. Model 2 was designed to identify the fulfilment of 
+the requirements of the chain of custody along the traceability control points. Identifiers of 
+IUU fishing activities were constructed, necessary traceability parameters were included, 
+critical traceability control points were identified along the fishery products chain of 
+custody, and chain of custody standards were designated. All these entries were plotted 
+against the new legal requirements, and the qualitative rating displayed in case-ordered 
+predictor-outcome N-way matrices. The specific methodology followed in order to 
+construct the analytical models is presented in Chapter 4. 
+ 
+1.4 Structure of the paper 
+Chapter 2 defines IUU fishing, illustrates the actual extension of the problem, and 
+describes its drivers and market/trade counter-measures, all with the purpose of framing 
+the conditions for proper application of traceability schemes. 
+ 
+ - 8  
+Chapter 3 defines traceability, circumscribes its drivers, its legal framework, standards, 
+certification schemes, and implications for eco-labelling. The conventional traceability 
+system is described and some analytical methods are exemplified in order to first 
+understand this general concept before finding its application in fisheries management. 
+ 
+Following the presentation of general issues related to IUU operations and traceability, an 
+attempt to intersect the two and define their common grounds within the framework of EU 
+Regulation 1005/2008 and EU Regulation Proposal 2008/0216 (CNS) is made in Chapter 
+4. The analysis and discussion sections identify how the new legal provisions deal with 
+traceability in connexion with IUU fishing deterrence, and if they fit the purpose they were 
+designed for. A comprehensive model that summarizes the findings displayed in matrices 
+is designed. Finally, the findings of the two Models, the connexions between eco-labelling 
+and IUU fish traceability, and genetic traceability and IUU fishing deterrence are 
+addressed in Chapter 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 9  
+2. ILLEGAL, UNREPORTED AND UNREGULATED FISHING 
+ 
+2.1 Background 
+2.1.1 Definitions 
+Commonly referred to as ?pirate fishing?, the illegal, unreported and unregulated (IUU) 
+fishing comprises a broad range of activities3, and a more specific characterization of the 
+term is called upon. Domestically, fishing without a licence, out of season, or prohibited 
+species, using banned types of fishing gear, catching more fish than is allowed, and not 
+reporting or misreporting catch weights are all examples of deceitful behaviour and IUU 
+activities. Internationally, fishing contrary to the fisheries conservation and management 
+measures of a regional fisheries management organization (RFMO), or fishing in a State?s 
+jurisdictional waters without authorization, are more examples of IUU fishing. 
+ 
+The only internationally agreed definition of IUU fishing is found in the International Plan 
+of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing 
+(IPOA-IUU), a voluntary binding instrument adopted by the Food and Agricultural 
+Organisation of the United Nations (FAO) in 2001. This followed from the framework set 
+by the FAO Code of Conduct for Responsible Fisheries (1995). Later, in 2008, the 
+European Union (EU) agreed upon a similar definition of IUU fishing, which was included 
+in the Council Regulation 1005/20084 establishing a Community system to prevent, deter 
+and eliminate IUU fishing. 
+ 
+According to the provisions of Article 3 IPOA-IUU5, the following fishing activities are 
+considered as illegal: fishing ?conducted by national or foreign vessels in waters under the 
+jurisdiction of a State, without the permission of that State, or in contravention of its laws 
+and regulations; fishing conducted by vessels flying the flag of States that are parties to a 
+relevant regional fisheries management organization but operate in contravention of the 
+conservation and management measures adopted by that organization and by which the 
+States are bound, or relevant provisions of the applicable international law; or in violation 
+ 
+3 EJF (2005), page 2. 
+4 Council Regulation (EC) No 1005/2008 of 29.10.2008 establishing a Community system to prevent, deter 
+and eliminate illegal, unreported and unregulated fishing, amending Regulations (EEC) No 2847/93, (EC) No 
+1936/2001 and (EC) No 601/2004 and repealing Regulations (EC) No 1093/94 and (EC) No 1447/1999, 
+published in on 29.10.2008 in the Official Journal of the European Union L 286/1. 
+5 FAO (2001) 1. 
+ 
+ - 10 of national laws or international obligations, including those undertaken by co-operating 
+States to a relevant regional fisheries management organization.? 
+ 
+Fishing activities ?which have not been reported, or have been misreported, to the relevant 
+national authority, in contravention of national laws and regulations; or undertaken in the 
+area of competence of a relevant regional fisheries management organization which have 
+not been reported or have been misreported, in contravention of the reporting procedures of 
+that organization? are defined as unreported. 
+ 
+According to the same provisions, fishing activities ?in the area of application of a relevant 
+regional fisheries management organization that are conducted by vessels without 
+nationality, or by those flying the flag of a State not party to that organization, or by a 
+fishing entity, in a manner that is not consistent with or contravenes the conservation and 
+management measures of that organization? are considered unregulated. Likewise are 
+considered fishing activities ?in areas or for fish stocks in relation to which there are no 
+applicable conservation or management measures and where such fishing activities are 
+conducted in a manner inconsistent with State responsibilities for the conservation of living 
+marine resources under international law?. 
+ 
+Taking a step forward, the EU Regulation 1005/2008 widens in Article 3(1) the concept of 
+fishing vessel engaged in IUU fishing, by presuming that a fishing vessel is carrying out 
+this kind of activities if it is proved that: 
+- it has falsified or concealed its markings, identity or registration; 
+- concealed, tampered with or disposed of evidence relating to an investigation; 
+- obstructed the work of inspectors checking compliance with applicable 
+conservation and management measures; 
+- transhipped or landed undersized fish; 
+- transhipped from, supported ore re-supplied other fishing vessels identified as 
+having engaged in IUU fishing. 
+ 
+ 
+ 
+ 
+ - 11 Figure 1 is an illustration of types of IUU fishing based on the above definitions. Within an 
+EEZ, there may be unlicensed fishing (poaching), under- or non-reported, or unauthorised 
+fishing by area, season, gear, quota or species. Outside EEZs there may be non-compliance 
+with an RFMO, or there may be unregulated fishing outside the area of an RFMO. Many 
+RFMOs also cover adjoining 
+EEZ waters, but the primary 
+jurisdiction in these cases 
+remains that of the coastal 
+state so the RFMO was 
+drawn as bounding on EEZ 
+waters.6 
+ 
+ 
+Figure 17: Illustration of types 
+of IUU fishing activities. 
+ 
+ 
+Although the seriousness of infraction may vary from fishery to fishery, the extent of IUU 
+fishing is not insignificant: it has been estimated that almost 25% of the fish landed in 
+2004 was caught in 
+a manner that can 
+be defined as IUU 
+fishing8 (Figure 2). 
+ 
+ 
+Figure 29: Estimated 
+global fish landings 
+1950-2004, including 
+estimates of different 
+types of IUU fishing. 
+ 
+ 
+6 MRAG (2005), page 11. 
+7 MRAG (2005), page 11. 
+8 MRAG & University of British Columbia (2008), page 17. 
+9 Sumaila, R. (2008), page 5. 
+ 
+ - 12 2.1.2 State of art in IUU fishing10 
+In its broadest sense, IUU fishing is a worldwide issue, affecting both domestic waters and 
+high seas, all types of fishing vessels, regardless of their size or type of gear, and a 
+multitude of species, with global (e.g. tuna and tuna-like species) or local (e.g. Patagonian 
+toothfish) impact (Figure 3). As underlined by FAO already in 200111, IUU fishing 
+undermines efforts to conserve and manage fish stocks in many regulated fisheries. When 
+confronted with this problem, national and regional fisheries management organizations 
+can fail to achieve management goals, the situation ultimately leading to the collapse of a 
+fishery, or seriously impairing efforts to rebuild depleted stocks. In addition, IUU fishing 
+activities may have negative impacts on the marine ecosystem, through their direct or 
+indirect effects on the populations of seabirds, marine mammals, sea turtles and biodiversity as a whole (discards, by-catch). 
+ 
+Figure 312: Global incidence of illegal fishing (based on data from 1980-2003). 
+ 
+Moreover, IUU fishing may alter competition and put at risk the economic survival of 
+those who fish in accordance with the law and in compliance with relevant conservation 
+and management measures. Therefore, IUU fishing may bear important social costs, 
+affecting the food-security and livelihoods of fishing-dependent countries and 
+communities. Because many of the crewmembers on IUU fishing vessels are themselves 
+from poor and underdeveloped regions, often working in inadequate social and safety 
+ 
+10 Based on OECD (2004), pages 11-12. 
+11 FAO (2001) 1. 
+12 Sumaila, R. (2008), page 8. 
+ 
+ - 13 conditions, the socio-economic problem is two-sided and complex. For an overview of the 
+most important indicators and shocks borne of IUU fishing activities, see Appendix 1. 
+ 
+One conclusion reached by the Organisation for Economic Co-operation and Development 
+(OECD) Workshop on IUU fishing activities (2004) is that IUU fishing is a dynamic and 
+multi-faceted problem, and that no single strategy is sufficient to eliminate or reduce it. 
+Therefore, a concerted and multi-divided approach is required nationally, regionally and 
+internationally, and by type of fishery. In order to find viable solutions to the IUU fishing 
+problem, all actors should be involved in the process: governments, communities, NGOs, 
+and the private sector. 
+ 
+The FAO IPOA-IUU contains tools to tackle the IUU fishing issue, but the question is to 
+find better ways to implement these tools and to make all countries (developed or 
+developing) responsible in complying with their duties as flag states, port states, coastal 
+states, states of vessel owners and trading nations. 
+ 
+2.1.3 The extent of IUU fishing in EU 
+Marine fishing and associated processing and commerce are important industries for a 
+number of coastal communities in the EU. IUU fishing, in various forms, is a significant 
+threat to achieving biologically sustainable fisheries and a serious management problem 
+for a large number of the fisheries on which these industries and coastal communities 
+depend. As shown in Figure 4, the IUU fishing activities bear a high social, economical 
+and environmental cost, as the percentage of fish caught in activities defined as IUU 
+fishing is considerably high (Figure 5). 
+ 
+The volume of illegal fisheries products imported each year into the EU has been assessed 
+to amount approximately 500.000 tons for a value of 1,1 billion euro13 regardless if the 
+place of capture was inside or outside the Community?s waters. 
+ 
+ 
+13 http://www.eubusiness.com/Fisheries/iuu-fishing-eu/ (accessed: 07.05.2009). 
+ 
+ - 14  
+Figure 414: Summary of estimated IUU fishing costs of all EU Member States for the IUU 
+activities carried in EU?s waters. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 515: The Large Marine Ecosystems adjacent to the coastlines of EU Member States and the 
+amount of IUU fishing activities done by EU and non-EU vessels inside EU?s EEZs (IUU rates are 
+expressed as a percentage of a fishery?s total catch). 
+ 
+14 EFTEC (2008), page 69. The study reviews evidence on the rates of IUU fishing in European waters, and 
+on the costs associated with IUU fishing activities. The study develops a simulation model for fisheries at the 
+Large Marine Ecosystem (LME) scale, using a surplus production model applied at the level of key 
+commercial groups (cod-likes, perch-likes, herring-likes, tuna and billfishes) in each LME, representing 46% 
+of the value of European fishing. 
+15 EFTEC (2008), page 9. 
+ 
+ - 15 2.2 Drivers of IUU fishing activities 
+Attempts have been made to identify and address the drivers of IUU fishing, with 
+particular regard to its illegal and unreported (IU) components. Starting from the precept 
+that ?expected profits from IUU fishing = expected benefits from IUU - expected costs of 
+IUU?, in 2005, the OECD?s Committee for Fisheries identified groups of important 
+economic and social drivers of IUU fishing activities (Appendix 2). Among these, the 
+market value of the IUU fish can be considered the decisive one, as without it most of the 
+others would be annihilated. 
+ 
+Responses in the global survey demonstrate the significant economic gains available 
+through IUU fishing. Demand for fish as a healthy, wholesome food is increasing in all 
+parts of the world and, in a paradoxal way, the more legal fishing is constrained by catch 
+and effort limits ? as the overall state of global fish stocks requires in many cases ? the 
+greater the motivation for and gains from IUU fishing.16 
+ 
+Since there are strong economic drivers for IUU fishing, and it occurs in situations of poor 
+fisheries management and control, one might expect that the level of illegal fishing should 
+be related mostly to fish price, governance and indicators of the control problem, such as 
+the area of a country's EEZ and the number of patrol vessels at its disposal. In fact, in a 
+study conducted in 200817 with respect to illegal and unreported fishing, no significant 
+relationship was found between these activities and the price of fish or the size of the EEZ 
+or of the fishery. Nevertheless, a significant relationship between the IU fishing and the 
+World Bank governance indicators could be established for all fisheries across Africa, Asia 
+and Europe (Figure 6). 
+ 
+The result does not imply that developing countries with poor governance records are 
+necessarily to blame for IU fishing, but that they are more vulnerable to this kind of 
+activities, conducted by both their own fishermen and vessels from distant water fishing 
+nations (e.g. fishing vessels from China, EU or Russia conducting IU activities in African 
+states waters). This represents a failure of control on behalf of the flag state as well as the 
+coastal state. 
+ 
+16 Bray, K (2000), page 1. 
+17 Agnew, DJ; Pearce, J.; Pramod, G.; Peatman, T; Watson, R. et al. (2009). 
+ 
+ - 16 Furthermore, many vessels engaged in both illegal and unreported activities on one hand, 
+and unregulated on the other, are registered under ?flags of convenience? states. While 
+these states are in most cases developing countries, the vessels themselves are usually 
+owned and operated by developed countries companies. 
+ 
+Figure 618: Relationship between the amount of illegal and un-reported fishing (expressed as a 
+proportion of the reported catch that is additionally taken as illegal and unreported catch) and an 
+average of four World Bank indices of governance (Government Effectiveness, Regulatory 
+Quality, Rule of Law and Control of Corruption), measured in 2003. 
+ 
+2.3 Management measures in place against IUU fishing 
+Even though the high seas are open to all states, the freedom to fish is limited by the basic 
+conditions set out in the UN Convention on the Law of the Sea (UNCLOS) (1982). In 
+addition to UNCLOS, the current international instruments related to high seas fisheries 
+are the FAO Compliance Agreement (1993), the UN Fish Stock Agreement (1995), the 
+FAO Code of Conduct for Responsible Fisheries (1995), and the FAO IPOA - IUU (2001). 
+While the first two are legally binding international instruments containing requirements 
+ 
+18 Agnew, DJ; Pearce, J.; Pramod, G.; Peatman, T; Watson, R. et al. (2009). 
+ 
+ - 17 relating to flag State responsibilities, compliance and enforcement, the last two are 
+voluntary and management-oriented instruments. 
+ 
+Analysing the structure of an IUU operation (Figure 7), one can break down this kind of 
+process into three segments19, and each of them can be targeted by measures specially 
+designed for it: 
+- first, fishing vessel activity segment, from vessel registration to landing of fish at a 
+port. This is the ?at sea? segment, which corresponds largely to what is understood 
+by ?IUU fishing?. 
+- second, the logistical aspect of an IUU operation addresses the organisation of 
+supplies and services (re-fuelling, transhipment, change of crew etc.). 
+- third, the catch/product in trade and market segment. This is where income-flows 
+occur and net incomes are generated, and this is the main purpose and driving force 
+for IUU operations. 
+ 
+Figure 720. The chain of 
+IUU fishing operations. 
+ 
+A management measure 
+configured to address an 
+IUU operation effectively 
+would need to deal with all 
+three segments of the 
+phenomenon, and would 
+have to exploit potentials to 
+cut across these segments. 
+Appendix 3 provides an 
+overview of the most 
+important tools against IUU 
+operations based on FAO 
+Code of Conduct and FAO 
+IPOA-IUU. 
+ 
+19 OECD (2004), page 22. 
+20 OECD (2004), page 21. 
+ 
+ - 18 Among these tools, the market and trade related measures have a clear potential to address 
+all the three aspects of the IUU operation. For example, by improvement of the 
+transparency of the markets in order to allow the traceability of fish and fish products, IUU 
+fish can be stopped form entering the trade (segment 3). At the same time, important 
+information about IUU actors (vessel owners, beneficial ownership, importers, buyers, 
+consumers, bankers, insurers, transhippers, equipment suppliers; IUU ports, IUU vessels) 
+can be retrieved in order to eliminate them from fishing operations (segments 1 and 2). 
+The traceability of fish and fish products can be enhanced by introducing mandatory 
+controls of importation and exportation of goods (catch certification and trade 
+documentation requirements), and import and export restrictions and prohibitions whose 
+violation could be tracked. Eco-labelling could also be one cross-cut measure, as the 
+certification of a fishery guarantees the absence of IUU activities at sea (segments 1 and 2), 
+and the product chain of custody certification ensures that only non-IUU fishing products 
+enter the trade (segment 3). 
+ 
+2.4 Compliance with FAO Code of Conduct for Responsible Fisheries requirements 
+with respect to IU fishing21 
+The FAO Code of Conduct, together with the FAO IPOA-IUU, is considered one of the 
+most important instrument containing tools to address IUU fishing. In 2005, WWF and the 
+University of British Columbia Fisheries Centre initiated a project to assess the Code?s 
+implementation, applying a consistent assessment protocol to data for 2003-2005 to 53 
+countries, representing over 95% of the world?s wild fisheries catch. 
+ 
+The conclusion of the report is that none of the 53 countries achieves what was considered 
+a ?good? score of 70% or more (Figure 7). Only six countries (11%) have overall 
+compliance scores whose confidence limits overlap 60% (Norway, USA, Canada, 
+Australia, Iceland, Namibia). This means that, ten years after the Code of Conduct was 
+agreed, there was a lot of space for improvement of governance and compliance even 
+among those countries at the top end of the rankings. At the lower end, the alarming 
+finding is that 28 countries (53%) had ?fail grades? of less than 40% (Peru, Poland, India, 
+Ghana, Taiwan, Latvia, Philippines, Brazil, Argentina, Morocco, Pakistan, Russia, 
+Senegal, Ecuador, Indonesia, Iran, Thailand, Ukraine, Sri Lanka, Viet Nam, Turkey, 
+ 
+21 Based on Pitcher, T. J.; Kalikoski, D.; Pramod, G. and Short, K. (2008). 
+ 
+ - 19 Bangladesh, Egypt, Yemen, Nigeria, Angola, Myanmar, North Korea). In the middle 
+range, disappointing scores were obtained by most developed European nations with the 
+undoubted resources and know-how to implement the Code. This reinforces the impression 
+of the low political priority given to improving fisheries management internationally. Some 
+developing countries score as fairly in the implementation of the Code as a developed 
+European country, indicating that elements of good fishery management can be achieved 
+even with limited resources. A negative 
+relationship with a marine biodiversity index 
+suggests that management is weakest in the most 
+species rich jurisdictions. Although it is expected 
+that the biodiversity index would be confounded 
+with both economic and governance indicators 
+(?poor countries are richer in biodiversity?), this 
+fact suggests that implementation of good practices 
+is easier where fisheries target intensively a lower 
+number of species. 
+ 
+Figure 822. ?Codeometer? showing estimated overall 
+compliance of the top 53 marine fishing countries FAO 
+Code of Conduct for Responsible Fisheries. Colours 
+indicate good scores (70% and over), fail scores (40% 
+and below) and intermediate values. 
+ 
+In what concerns the compliance with the Code in 
+terms of measures to be taken for deterring IUU 
+fishing, the same report estimates that only 26% of 
+the countries deal reasonably with illegal fishing 
+activities, while most countries (60%) address the 
+problem unsatisfactorily (Figure 9). It is worth to 
+note that among the countries rated to effectively 
+tackle illegal fishing there are only three EU states 
+(out of 11 included in the study), and two EEA 
+states. 
+ 
+22 Pitcher, T. J.; Kalikoski, D.; Pramod, G. and Short, K. (2008), page 8. 
+ 
+ - 20  
+Figure 923. Bar chart showing compliance with the Code of Conduct in controlling illegal fishing 
+for the 53 top fishing countries. Broken lines: green denotes ?good? compliance rating; red denotes 
+?fail? rating. Note that even though the chart refers to illegal fishing, the study analyses it in terms 
+of IUU fishing. There is sometimes confusion in the terminology, and issues are often confounded, 
+but this should not detract from the generality of the results of the study cited. 
+ 
+The results obtained by this study with respect to EU member states can be correlated with 
+the ones found by another 2008 study24 that focused only on IUU fishing activities carried 
+out inside Community?s waters. As shown in Figure 10, a high proportion of illegal 
+activities25 take part in EU Member States. This goes together with a relatively poor score 
+by EU Member States for their ability to control illegal fishing (Figure 11), substantially 
+worse than the scores for Iceland and Norway (EEA countries), and similar or little better 
+than for Morocco (developing country) and Turkey (intermediate country). 
+ 
+ 
+23 Pitcher, T. J.; Kalikoski, D.; Pramod, G. and Short, K. (2008), page 13. 
+24 EFTEC (2008). The study refers in this particular case of relating EU Member States fishing activities with 
+IUU fishing to the Pitcher T, Kalikoski, D and Pramod, G (2008) ?Evaluations of Compliance with the FAO 
+(UN) 
+Code of Conduct for Responsible Fisheries? study available at 
+www.fisheries.ubc.ca/publications/reports/report14_2.php. This later one used 44 questions for each country 
+in which scoring was based on the assessment of 2332 separate analyses including: national legislation, 
+international treaties, country synopses from FAO, country reports to FAO and by NGOs, websites of 
+national fisheries agencies, NGO websites, literature, and information from fisheries experts. 
+25 One should bear in mind that even though the figures relate only to illegal fishing, the study refers to them 
+as connected to IUU fishing. As in the previous case, there is sometimes confusion in the terminology, and 
+issues are often confounded, but this should not detract from the generality of the results of the study cited. 
+ 
+ - 21 When analysing the figures, one should not pay attention to the exact scoring (e.g. score 10 
+for Spain in Figure 10 would imply that 100% of the Spanish fishing fleet is undertaking 
+illegal activities inside the Community?s waters), but to its overall significance (e.g. in 
+Figure 10 the important issue is that too many of EU vessels are engaged in illegal 
+operations inside the Community?s waters). 
+ 
+Figure 1026. Country scores on ?Are vessels fishing illegally in the fisheries?? Bars indicate ranges 
+of scores in the study. 
+ 
+Member States? scores for the effectiveness of observer schemes, catch inspections, and 
+vessel monitoring are 5.8, 4.5 and 4.8 respectively out of 10 (Figure 12), reflecting a poor 
+standard of enforcement within the EU as compared to those enforced by the neighbouring 
+EEA fishing countries in their home waters. As underlined in the report, the EU low to 
+moderate standards of enforcement and follow-up influence the risk of detection of IUU 
+activity and the expected penalties, which in turn lower the expected costs of engaging in 
+IUU fishing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 EFTEC (2008), page 18. 
+ 
+ - 22  
+Figure 1127: Countries scores on ?How effective is control of access to stop illegal fishing?? 
+ 
+Figure 1228. Average scores for effectiveness of observer schemes, catch inspections and vessel 
+monitoring. 
+ 
+All these results should be read critically, as the severity of the infractions is not clearly 
+defined in such an aggregated presentation of findings. However, in a cross-sectional 
+perspective (across countries), the contrasting trend between illegal fishing (and by 
+extension, of other forms of IUU) and the level of control and surveillance is clear. 
+ 
+ 
+27 EFTEC (2008), page 18. 
+28 EFTEC (2008), page 15. 
+ 
+ - 23 In summary, at the core of the IUU fishing issue lays a number of drivers that Member 
+States and the Community must seriously address. In the EU context, this encompasses 
+such known problems as over-capacity, tradition and lack of alternatives to fishing by 
+some, and a high demand for fish products by a generally wealthy population. The later 
+also creates a drive to the import of IUU international fish commodities along food supply 
+chains. It is also becoming increasingly evident that adequate control and surveillance, 
+including aspects related to traceability, have a complementary role to play in the 
+deterrence and prevention of irresponsible fishing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 24  
+3. TRACEABILITY 
+ 
+3.1 Definitions of traceability, categories and drivers 
+3.1.1 Definitions 
+Even though the concept of traceability is relatively new, its acception changed in time. 
+Therefore, different institutions with authority in this domain are still trying to thoroughly 
+circumscribe it, as specialists in traceability are not really in full agreement with what 
+traceability is and what is not.29 
+ 
+a. International Organization of Standardization (ISO) 
+One of the first definitions of traceability, a very practical one and often used, is found in 
+the international standard ISO 8402:1994 Quality management and quality assurance ? 
+Vocabulary: traceability is ?the ability to trace the history, application or location of an 
+entity by means of recorded identifications? (my italics). In 2000, the International 
+Organisation for Standardization withdrew this standard, replacing it with ISO 9000:2000 
+Quality management systems - Guidelines for performance improvements, where 
+traceability is defined in a less specific way as being ?the ability to trace the history, 
+application or location of that which is under consideration? (my italics). Both standards 
+include an additional clause which states that when relating to products, traceability 
+specifically entails ?the origin of materials and parts, the processing history, and the 
+distribution and location of the product after delivery?. The difference between the two 
+definitions is that in the newer one ?recorded identifications? are no longer mentioned. 
+According to ISO 8402, objective methods or instruments that give immediate values for 
+entity properties (for instance, devices that measure fat, water content, alcohol content, 
+colour, salinity etc. in food items) did not provide traceability. In contrast, according to the 
+new definition of ISO 9000, they offer traceability. Therefore, sometimes, the objective 
+methods and instruments are considered to provide traceability control mechanisms rather 
+than traceability as such. For example, they are used to verify the claims made in the 
+recorded identifications.30 
+ 
+ 
+29 Discussions during Workshop ?Harmonizing methods for food traceability process mapping and 
+cost/benefit calculations related to implementation of electronic traceability systems?, NOFIMA, Tromsø, 
+Norway, 25-26.02.2009. 
+30 http://www.tracefood.org/index.php/ (accessed: 18.04.2008). 
+ 
+ - 25 b. European Union 
+Resembling more with the newer ISO standard, the European Community Regulation 
+178/2002 General principles and requirements of food law defines traceability in Article 
+3(15) as ?the ability to trace and follow a food, feed, food-producing animal or substance 
+intended to be, or expected to be incorporated into a food or feed, through all stages of 
+production, processing and distribution?.31 
+ 
+c. FAO/WHO Codex Alimentarius 
+Citing the Procedural Manual developed by the Codex Alimentarius Commission, the 
+CAC/GL 60-2006 standard developed by FAO/WHO defines traceability/product tracing 
+as ?the ability to follow the movement of a food through specified stage(s) of production, 
+processing and distribution?32, thus being closer to the newer ISO standard. 
+ 
+3.1.2 Categories 
+Traceability can be distinguished into two interrelated categories: internal traceability and 
+external or chain traceability33, graphically depicted in Figure 13. 
+ 
+Figure 13.34 Traceability along the food supply chain. Filled arrows show the product flow; open 
+arrows show the information flow. 
+ 
+ 
+31 OJ L31/1/ 2002, page 8. 
+32 CAC/GL 60-2006, page 1, at http://www.codexalimentarius.net/web/standard_list.do?lang=en (accessed: 
+18.04.2009), and FAO/WHO (2008), page 20. 
+33 http://www.tracefood.org/index.php/ (accessed: 18.04.2008). 
+34 Randrup, M. et al. (2008), page 1065. 
+ 
+ - 26 Internal traceability refers to the ability to keep track of what happens to a product, its 
+ingredients and packaging within a company or production facility. For example, when a 
+company receives a box of mackerel, and uses the fish to produce flavoured smoked 
+mackerel, it has to keep records from whom the fish was received, if the fish was divided 
+in batches or mixed with other received raw material, what smoking process was used 
+(cold or warm smoking), what ingredients were used and where did they come from, where 
+the finished product packing came from, where the finished product goes. External 
+traceability refers to the ability to keep track of what happens to a product, its ingredients 
+and packaging in the entire or part of a supply chain35. For example, if a customer in a 
+supermarket wants to know if the purchased fish was caught by trawl or long line, it should 
+be possible to find this information with an external traceability system. 
+ 
+Using a metaphor36, the concept of traceability can be compared with a train track that 
+crosses all the points of the supply chain (harvesting - primary processor - secondary 
+processor - retailer), while the train carriages are the information retained at each of these 
+points by means of internal traceability. Traceability downstream (back) can be called 
+?tracing? and upstream (forward) ?tracking?37. 
+ 
+In practice, the term traceability can be used in distinct contexts, each with a different 
+implied sense38: 
+1. Product; it may relate materials, their origin, processing history, and their distribution 
+and location after delivery. 
+2. Data; it relates calculations and data generated throughout the quality loop, sometimes 
+back to the requirements for quality; it relates to transformation information 
+(identification+transformation relations) and product information (origin+processing 
+history+location).39 
+3. IT and programming; it relates design and implementation back to the requirements for 
+a system. 
+ 
+ 
+35 The supply chain can be defined as ?the entire chain the product travels through from raw materials to 
+consumption? (http://www.bordbiavantage.ie/bordbia/preview.asp?pid=3&mid=11&cid=37&id=37; 
+accessed: 18.04.2009). 
+36 Olsen, P. (2009) 1, page 8. 
+37 Aarnisalo, K.; Heiskanen, S.; Jaakkola, K.; Landor, E. and Raaska, L. (2007), page 8. 
+38 Moe, T. (1998), page 211. 
+39 Karlsen, K.M.; Olsen, P. and Storøy, J. (2006), page 19. 
+ 
+ - 27 Figure 14 shows the integrant components of traceability, and their relations. 
+ 
+ 
+ 
+Figure 14.40 External and internal traceability, downstream and upstream. 
+ 
+40 Adapted from 
+http://www.sporfori.fo/InEnglish/Ontraceability/InternalExternalTraceability/tabid/109/Default.aspx 
+(accessed: 18.04.2009) and GS1 - The GS1 Traceability Standard: What you need to know, at www.gs1.org 
+(accessed: 18.04.2009). 
+ 
+ - 28 3.1.3 Drivers 
+There are different drivers for traceability in food supply chains, including fish and fish 
+products ones. These drivers circumscribe the requirements for the identification and 
+information systems.41 Figure 15 shows these drivers and their inter-relations. 
+ 
+ 
+ 
+ 
+Figure 15.42 
+Traceability 
+drivers in the 
+food sector. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Risk avoidance drivers (the left side of the diagrams) and economic development drivers 
+(the right side of the diagrams) are considered old, traditional ones, while the 
+documentation of sustainability driver is a new one, which emerged in the last few years 
+from the growing global concern about natural resources and environment. 
+ 
+3.2 Legislation, standardisation, certification and eco-labelling 
+3.2.1 Legislation 
+At this moment, at Community level, the EU Regulation 178/2002 General principles and 
+requirements of food law is the most relevant piece of legislation in the area of food 
+traceability. In the area of fish, fish and fishery products traceability, the EU Regulation 
+1005/2008 and the EU Regulation Proposal CNS/2008/0216 are the most important legal 
+documents. 
+ 
+41 Bollen, A.F.; Riden, C.P. and Opara, L.U. (2006), page 94. 
+42 Olsen, P. (2009) 1, page 8. 
+ 
+ - 29 a. EU Regulation 178/200243 
+From 2005 the European Commission set into force a new food law (Common food law), 
+and established the European Food Safety Authority. The general principles and 
+requirements of this law are specified in EU Regulation 178/2002. As an instrument to deal 
+with food crises and a rapid increasingly global trade, this regulation has a strong focus on 
+food safety, reduction of food induced health risks, protection of consumers and building 
+up confidence in food and food production. The ability to carry out recalls of contaminated 
+products is considered as an important functionality in a future food safety regime. This 
+requirement is partly built into Regulation 178/2002 by the so called "one-up/forward, onedown/backward approach", where all producers have to document from whom they have 
+received food stuffs and to whom they have sent their products.44 
+ 
+In connexion with the same problematic addressed by this Regulation, EU developed other 
+legal documents that deal in a more or less specific way with traceability of food in general 
+or of fish and fish products in particular. For an overview of the most relevant of them, see 
+Appendix 4. 
+ 
+b. EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 (CNS)45 
+Both EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 (CNS), try to 
+implement within the Community Member States the traceability requirement for the fish 
+and fishery products, by introducing different recorded documents along the custody chain. 
+It is important to specify that these two legal norms are of regulation type, which requires 
+direct implementation in the Member States. 
+ 
+When deciding if the new legislation should take the form of the Code of Conduct or a 
+regulatory instrument in the form of a new binding regulation, the European Commission 
+adopted the later option.46 This choice was taken in order to consolidate and simplify the 
+existing legislation, develop a new, harmonised approach to inspection and control 
+(covering all aspects from ?net to plate?), to develop a common culture of compliance and 
+to ensure the effective application of Common Fisheries Policy rules. 
+ 
+43 EU Official Journal L31/1 (2002); 
+44 http://www.tracefood.org/index.php/Traceability:Legislation (accessed: 19.04.2009). 
+45 Together with EU Regulation Proposal CNS/2007/0114 concerning authorisations for fishing activities of 
+Community fishing vessels outside Community waters and the access of third country vessels to Community 
+waters, they form the new pillars of the EU Common Fisheries Policy. 
+46 European Commission (2008). 
+ 
+ - 30 Therefore, EU Member States have to transpose into their national legislation both new 
+documents as such, one of the outcomes having to be a global and integrated control 
+system to deter IUU fishing. 
+ 
+3.2.2 Standardisation 
+It is generally accepted that there are three types of standards47: 
+- First-party standards ? developed by a company for application within the 
+company. They are used by the company, but they are open to important criticism 
+concerning conflict of interest. 
+- Second-party standards ? developed by an industry organisation for application to 
+the entire industry sector. In their case, the common criticisms are conflict of interest and 
+playing to lowest common denominator.48 
+- Third-party standards ? developed by organisations independent of the industry to 
+which the standards apply. They are often seen as the preferred choice in supporting the 
+dissemination of environmental information to consumers as they have the appearance of 
+independence and objectivity. Nevertheless, the true objectivity of these standards is 
+dependent on the range of input provided during the standard development process. 
+Therefore, including a wide range of stakeholders could assure the objectiveness and 
+independence of the standard. All standards presented hereunder are third-party type. 
+ 
+ISO introduced in the last five years three new standards49 that define the requirements for 
+a traceability system within a food safety management system and the data that needs to be 
+retained (ISO 22000:2005 Food safety management systems ? requirements; ISO 22519 
+traceability system in the agriculture food chain general principles for design and 
+development; ISO 22005:2007 Traceability in the feed and food chain - General principles 
+and basic requirements for system design and implementation).50 
+ 
+47 Philips, B.; Ward, T.; Chaffee, C. (2003), pages 5-6; 
+48 Industry associations are usually in the position of having to protect all members equally, so creating 
+standards that allow for significant differentiation among members is often against the charter of the 
+association, unless the express wishes of its paying members. 
+49 An ISO standard is a documented agreement containing technical specifications or other precise criteria to 
+be used consistently as rules, guidelines, or definitions of characteristics to ensure that materials, products, 
+processes and services are fit for their purpose. (http://www.iso.org/iso/iso_catalogue/faq_standards_2.htm, 
+accessed: 19.04.2009). 
+50 Aarnisalo, K.; Heiskanen, S.; Jaakkola, K.; Landor, E. and Raaska, L. (2007), page 13; and 
+http://www.iso.org/iso/catalogue_detail?csnumber=36297 (accessed: 19.04.2009). 
+ 
+ - 31 In the fish and fish products traceability area, ISO is developing now a new technical 
+standard, ISO TC234 Traceability of fish products ? Specification on the information to be 
+recorded in captured fish distribution chains, which is for the moment still in the draft 
+stage. 
+ 
+Besides ISO, both the international organisation Codex Alimentarius and the European 
+Committee for Standardization (CEN) have also dealt with questions on traceability during 
+the last years, establishing the following standards: 
+- Alimentarius CAC/GL 60-2006 Principles for Traceability/Product Tracing as a Tool 
+within a Food Inspection and Certification System; 
+- CEN/CWA 14659:2003 - Traceability of fishery products: Specification of the 
+information to be recorded in farmed fish distribution chains; 
+- CEN/CWA 14660:2003 - Traceability of fishery products: Specification on the 
+information to be recorded in captured fish distribution chains (it constitutes the starting 
+point for ISO TC234); 
+- CEN/SS C01-Food Products prEN ISO 22005 Traceability in the feed and food chain: 
+General principles and basic requirements for system design and implementation 
+(ISO/FDIS 22005:2007).51 
+ 
+There are many other traceability standards developed by different institutions, but it is 
+important to state that except CEN/CWA 14660:2003 and ISO TC234 standards, all the 
+other standards that deal with information needed in captured fish distribution chains do 
+not standardize on parameter level.52 Therefore, recorded data is not measurable, stopping 
+only at a surface level of quantifiable recording (e.g. parameter level: register transport 
+vehicle number; non-parameter level: register only type of transport-truck, vessel, plane, 
+train). 
+ 
+3.2.3 Certification 
+Certification is the procedure by which a certification body gives written or equivalent 
+assurance that a product, process or service conforms to certain standards.53 
+ 
+ 
+51 Aarnisalo, K.; Heiskanen, S.; Jaakkola, K.; Landor, E. and Raaska, L. (2007), page 13. 
+52 Olsen, P. (2009) 2, page 16. 
+53 FAO (2009), page 15. 
+ 
+ - 32 As in the case of standards, there are three types of certification: 
+- First-party certification ? by which a single company or stakeholder group 
+develops its own standards, analyzes its own performance, and reports on its compliance. 
+- Second-party certification ? where an industry or trade association or NGO 
+develops standards, analyzes the performance of involved parties, and reports on 
+compliance. 
+- Third party certification ? where an accredited external, independent, certification 
+body, which is not involved in standards setting or has any other conflict of interest, 
+analyzes the performance of involved parties, and reports on compliance. 
+ 
+3.2.4 Eco-labelling54 
+Eco-labelling schemes, which are a marked based private sector mechanism to manage the 
+sustainable use of natural resources, can be categorized as follows55: 
+- First party labelling schemes: established by individual companies, based on their 
+own product standards, with ?self declared? compliance. 
+- Second party labelling schemes: established by industry associations for their 
+member?s products; compliance is verified through internal audit procedures or by 
+employing external companies as auditors (e.g. Bureau Veritas). 
+- Third party labelling schemes: developed by a body independent of procedures, 
+distributors and sellers of the labelled products. The label is licensed to a producer. The 
+?chain of custody? is tracked to ensure that the labelled product it is in fact derived form 
+the certified one. Audit is conducted by independent, third-party certifier. 
+ 
+The eco-labelling certification process has two distinct stages: 
+ 
+1. fishery certification (three phases: pre-pre assessment, pre-assessment and full 
+assessment); 
+ 
+ 
+54 One should not mistake eco-labelling for a certification scheme, as eco-labelling schemes use certification 
+ones as processes within their own procedure. 
+55 FAO (2001) 2, page 11. 
+ 
+ - 33 2. chain of custody certification. This refers to the set of measures which makes sure that a 
+certified product originates from a certified production chain and is not mixed with noncertified products. Chain of custody verification measures track/trace the product 
+throughout the production, processing, distribution and marketing chain, with 
+corresponding documentation56, as showed in Figure 16. 
+ 
+Figure 16.57 Summary of chain of custody from a certified fishery throughout to consumer. 
+ 
+The client who is under assessment can decide to stop the process after the first stage, in 
+this case only the fishery being awarded the eco-label certification (e.g. after passing this 
+step under MSC standards, the USA Alaska salmon fishery claims that is MSC certified), 
+or it can decide to complete the second stage, in which case the products derived from the 
+fishery being allowed to carry the eco-label. During the certification process, the burden of 
+proof is reversed, which means that the client has to demonstrate the certification body that 
+it meets the certification scheme standards. 
+ 
+ 
+ 
+ 
+ 
+56 FAO (2009), page 15. 
+57 Modified from Philips, B.; Ward, T.; Chaffee, C. (2003), page 88. 
+ 
+ - 34 As shown in Appendix 5, there are quite a number of standards, certification schemes and 
+labels in fisheries and aquaculture. This situation can be confusing for all parties, and there 
+is an obvious need for comparison of practices - the benchmarking58 issue. While in 
+aquaculture a benchmarking study was undertaken by WWF in 200759, in capture fisheries 
+this comparability study is lacking. There are strong indications that this kind of study is 
+more than needed in the industry, as voiced by the stakeholders during the Round Table on 
+eco-labelling and certification in fisheries sector, held in The Hague in April 2009. 
+ 
+3.3 Traceability systems 
+3.3.1 Types of systems 
+Not all traceability systems are equivalent and/or interchangeable, nor can they necessarily 
+be consolidated. Different purposes and systems also trigger different expectations in 
+producers and consumers that do not always correspond to the traceability system in use 
+(regulatory, contractual or voluntary). This partially explains the current uncertainty related 
+to traceability requirements and to the possible implications of traceability regulations. 
+Table 1A presents the most fish and fish products common traceability systems, as 
+identified by FAO/Globefish in 2006.60 
+ 
+Table 1A. Traceability systems: purpose, objective, attributes, standards and examples. 
+ 
+Purpose Objective Attributes Standard Example 
+Mandatory EU regulation 
+Safety 
+Consumer protection 
+(through recall and 
+withdrawal) 
+Specified in food & 
+fish safety 
+regulations Voluntary (1) USA regulation 
+Specified in security 
+regulations Regulatory (2) 
+USA Prevention of 
+Bio-terrorism, 
+regulation 
+Security 
+Prevention of 
+criminal actions 
+(through verifiable 
+identification and 
+deterrence) 
+Verification of 
+selected attributes on 
+package and/or food 
+Voluntary 
+(no common 
+standard) 
+Brand & product 
+protection 
+Regulatory 
+Quality 
+Consumer assurance 
+(through recall and 
+withdrawal) 
+Specific attributes 
+included in 
+regulations 
+Regulatory (3) 
+EC labelling, 
+mandatory consumer 
+information. 
+ 
+58 Benchmarking is the process of comparing the cost, cycle time, productivity, or quality of a specific 
+process or method to another that is widely considered to be an industry standard or best practice. 
+(www.wikipedia.com, accessed: 27.04.2009). 
+59 See Benchmarking Study on International Aquaculture Certification Programmes. World Wildlife Fund 
+(WWF), Switzerland and Norway, Zurich and Oslo 2007. 
+60 Lupin, H. (2006). 
+ 
+ - 35 Nonregulatory 
+quality & 
+Marketing 
+Creation and 
+maintenance of 
+credence attributes 
+Specific attributes 
+included in public 
+standards 
+Voluntary 
+(common 
+standard) (4) 
+Public Quality seals 
+(e.g. Label Rouge, 
+France) 
+Organic fish, Ecolabelling 
+Private standards 
+(4) 
+Own traceability 
+systems (e.g. WalMart) 
+Food chain 
+trade & 
+logistics 
+management 
+Food chain 
+uniformity & 
+improved logistics 
+Specific attributes 
+required to food and 
+services suppliers by 
+contract 
+Public standards 
+for encoding 
+information 
+GS 128 (5) (e.g. with 
+TRACEFISH (6) 
+standard) SSCC (7) 
+Plant 
+Management 
+Productivity 
+improvement and 
+costs reduction 
+Internal logistics and 
+link to specific 
+attributes 
+Voluntary (internal 
+traceability; own 
+or public 
+standards) 
+From simple to 
+complex IT systems. 
+ 
+(1) Recall and withdrawal can become compulsory if a responsible company does not take action. 
+(2) Includes the possibility of mandatory disposal, recall and withdrawal, legal and police actions but primary purpose is prevention. 
+(3) Includes the possibility of mandatory disposal, recall and withdrawal and administrative actions, but primary purpose is consumer 
+assurance. 
+(4) Could include voluntary (contractual) recall and withdrawal and agreed (contractual) sanctions. 
+(5) GS1 System standardizes bar codes (www.GS1.com) 
+(6) TRACEFISH, ?Traceability of Fish Products? (EC funded project) http://www.tracefish.org/ 
+(7) SSCC : Serial Shipping Container Code (UCC) 
+ 
+In order to adapt Table 1A to the realities of the traceability drivers as defined in Chapter 
+3.1.3, it is here purposed that one more row be added: 
+ 
+Table 1 B. Supplement to traceability systems: purpose, objective, attributes, standards and 
+examples. 
+Purpose Objective Attributes Standard Example 
+Mandatory 
+EU Regulation 
+Proposal 
+CNS/2008/0216 
+Documentation 
+of 
+sustainability 
+Natural resource 
+sustainability 
+Specified in 
+environment 
+protection 
+regulations Voluntary FAO IPOA-IUU 
+ 
+3.3.2 Components 
+Traceability systems are constructions which enable traceability. There are several 
+essential elements of traceability constituting an integrated food supply chain traceability 
+system.61 These elements are: 
+1. Product traceability - defines the physical location of a product at any stage in the 
+supply chain. 
+2. Process traceability - ascertains the type of activities that have affected the product 
+during the growing and post harvest operations (what, where and when). 
+ 
+61 Opara, L.U. (2003), pages 102-103. 
+ 
+ - 36 3. Genetic traceability - determines the genetic composition of the product and includes 
+information on the type and origin (source, supplier). 
+4. Inputs traceability - determines type and origin (source, supplier) of inputs, e.g. 
+fertilizers, additives used for preservation or transformation of the raw materials into 
+processed products. 
+5. Disease and pest traceability - traces the epidemiology of microbiological hazards and 
+pests, which may contaminate food products. 
+6. Measurement traceability - relates individual measurement results through calibrations 
+to reference standards and assures the quality of measurements by observing various 
+factors which may have impact on results (such as environmental factors, operator etc.). 
+ 
+3.3.3 Characteristics 
+A good identification system for a product must fulfil the legal requirements, must be 
+unique, legible, resistant to damage, easy to capture for records, tamper-proof (resistant to 
+interference), able to avoid fraud and incapable of reuse.62 Effective traceability is the 
+result of structured data acquisition and clarity of reporting. The acquired data should be 
+easily accessible and scrutinable, quickly searchable, and descriptions of production flows 
+should be understandable. 
+ 
+Products and activities are core entities of a traceability system, and they are defined by a 
+set of essential descriptors that must be included in order to secure the system (Figure 17). 
+ 
+ 
+ 
+Figure 17.63 Fundamental 
+structure of a traceability 
+system. 
+ 
+ 
+ 
+ 
+ 
+ 
+62 Aarnisalo, K.; Heiskanen, S.; Jaakkola, K.; Landor, E. and Raaska, L. (2007), page 15. 
+63 Moe, T. (1998), page 212. 
+ 
+ - 37  
+Traceability can be achieved using either paper based records, a bar/scanner system 
+combined with a computerised central database, or an integrated IT traceability system that 
+implies among other radio frequency identification (RFID) tags. 
+ 
+3.3.4 Traceable units 
+The concept of traceable units is a key aspect in traceability. A traceable unit must be 
+uniquely identifiable and linked to the relevant records: it can be one fish (e.g. one big 
+halibut), one catch, one day?s catch or one week?s catch. It has been the prerogative of the 
+industry to define the appropriate unit64. Trade units, logistic units and batches are 
+traceable units, defined as in Table 2. 
+ 
+Table 265. Traceable units: trade unit, logistic unit, batch. 
+- Trade Unit (TU) - any item upon which there is a need 
+to retrieve predefined information and that may be 
+priced, or ordered, or invoiced at any point in any supply 
+chain. In practice it often refers to the smallest traceable 
+unit that is exchanged between two parties in the supply 
+chain. A crate of fish is often a TU. 
+(image from 
+http://www.fotobank.ru/img/SF15-4519.jpg?size=l) 
+ 
+- Logistic Unit (LU) - an item of any composition 
+established for transport and/or storage that needs to be 
+managed through the supply chain. In practice it is made 
+up by one or more separate TUs. In some cases, the trade 
+unit and the logistic unit are the same. A LU is often a 
+pallet of fish being distributed from one producer to a 
+receiver. 
+(image from 
+www.promensfoodpackaging.com/page.asp?pageid=402) 
+ 
+ 
+ 
+ 
+ 
+64 Frederiksen, M. (2006), 
+65 http://www.tracefood.org/index.php/GTP:Defining_traceable_units (accessed 01.05.2009). 
+ 
+ - 38 - A production batch - has to be referred to 
+when dealing with internal traceability. A 
+production batch is the traceable unit that raw 
+materials and ingredients go into before they 
+are transformed into products placed in new 
+TUs and LUs. 
+Example batch code: 
+- Supplier code/Reception date code/Species 
+code 
+- A/050208/Hd 
+- Haddock supplied by company A on 
+05.02.2008. 
+ 
+As depicted in Figure 18, batches relate to internal traceability, while TUs/LUs relate to 
+external traceability. This distinction is important because globally unique identifiers have 
+to be given to traceable units involved in external traceability (since a production batch is 
+an internal matter, it does not need to have a globally unique identifier). 
+ 
+ 
+Figure 18.66 Relation between internal batch and external trade unit. 
+ 
+3.3.5 Data recording of unique ID-codes starting from lowest unit 
+To be able to trace both backwards to find origin and forward to find all related units it is 
+vital to record all transformations the lowest TU is subject to. The four steps below specify 
+how to keep track of transformations.67 
+ 
+ 
+ 
+66 http://www.tracefood.org/index.php/GTP:Defining_traceable_units (accessed 01.05.2009). 
+67 http://www.tracefood.org/index.php/GTP:Transformations (accessed: 01.05-2009) 
+ 
+ - 39 1. Define the TU in the business under examination (e.g. a 20 kg crate with herring). 
+2. Record IDs of received TUs (raw materials and/or ingredients). Here are two 
+alternatives: a) if the received TU has a unique ID, record it; b) if the received TU does not 
+have a unique ID, allocate one to it. For an allocation system of unique identification of 
+traceable units see Appendix 6. (e.g. the 20 kg crate with herring was received with the 
+unique ID-code or was given the unique ID-code 
+ (01)07038010000065(8008)040915125603). 
+3. Record the ID of the TUs that go into the production, and give all produced TUs a 
+unique ID. In practice, the ID of TUs that goes into production will at that stage be linked 
+to a production batch (cf. Batch number). Every produced TU must be allocated a unique 
+number. In this way the ID of received TUs will be linked with the ID of produced TUs. 
+This practice ensures forward traceability inside the business. Where possible and relevant, 
+it is also recommended to record the fraction (%) and/or the net weight of each TU that 
+goes into production. (e.g. the 1 kg net fish weight barrels with marinated herring produced 
+from the received crate of 20 kg of herring will be given an ID-code similar to and related 
+with the crate?s ID-code) 
+4. Record the ID of all TUs dispatched. Fulfilment of requirements in step 2-4 provides 
+both a link between received and dispatched TUs (and the other way around), via the 
+production process (internal traceability), and a link to previous and next food business 
+operator (external traceability). 
+ 
+Figure 19 shows how relations are linked both ways through a business. For example, 
+entire TU 11 is input factor in TU 21, while TU 21 is also made up by TU 12. Both 
+fractions (%) and net weight are indicated. In this figure the production step is removed 
+and only relation between received and dispatched TUs is shown. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 40  
+Figure 19.68 Trade units flow. 
+ 
+3.3.6 The importance of weighing 
+Weight accountability is a very important aspect in a fish traceability system, as it prevents 
+the infiltration of fish from untraceable provenance, usually from IUU activities. In 
+Figure19, the fish net weight received is equivalent with the fish net weight delivered, and 
+this was recorded in a data sheet. For example, a tuna canning factory receives 5.000 kg of 
+uniquely identified tuna fish crates, but delivers cans that contain 7.000 kg of net weight of 
+tuna fish. The question that rises is where do the additional 2.000 kg of tuna fish come 
+from? If no recorded evidence can be found according to applicable legal provisions in 
+order to identify the provenance of the 2.000 kg extra of tuna (no unique ID-codes, no 
+catch certificates etc.), then it is clear that the fish has an illegitimate origin. 
+ 
+ 
+ 
+ 
+ 
+68 http://www.tracefood.org/index.php/GTP:Transformations (accessed: 01.05-2009). 
+ 
+ - 41 3.3.7 Transformations/operations 
+As referred above, at each point of the supply chain, the traceable units go through 
+different types of operations/transformations. In order to achieve a good traceability of the 
+product, the information that is linked to that product must undergo a parallel operation, so 
+the product and the information will remain linked. There are 6 main types of 
+operations/transformations connected to traceable units and their linked data. Some of 
+them are more or less exposed and susceptible to infiltration of IUU fishery products, or 
+can facilitate for it, as exemplified in Table 3. For structuring Table 3, available 
+information from other authors69 was reviewed, amended and organised from the new 
+perspective. For examples of the other transformations/operations see Appendix 7. 
+ 
+Table 3. Operations/transformations and their exposure to infiltration with IUU fishery products. 
+ 
+1. Transfer (no joining or splitting of the 
+unit). It is essential that product ID-code is 
+transferred with the product during operation. 
+Example: A truck transports 10 pallets with IDcodes of fresh mackerel from the harbour to the 
+processing unit. The pallets are not changed 
+under transport. 
+IUU fish infiltration: The first buyer after an 
+IUU vessel lands its catch gives his own IDcodes to the fish which will be sold further on 
+as such, without any processing, further on. If at 
+the upper links of the supply chain the product 
+seems perfectly traceable, a deeper 
+investigation to the origin of product will reveal 
+the illegality. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+69 Karlsen, K.M.; Olsen, P. and Storøy, J. (2006), pages 11-12, & Derrick, S.; Dillon, M. (2004), pages13-14. 
+ 
+ 
+ - 42 2. Joining (mixing). During this operation, one 
+process step combines several traceable units, 
+which should have each an unique ID-code. A new 
+ID-code should be established for the new 
+combined TU, and the records should clearly 
+indicate the ID-codes of all the component TUs. 
+Example: One processor, who receives fish from 
+more than one fishing vessels, mixes the cod from 
+the different vessels (one motive might be that the 
+processor does not have sufficient raw material 
+from only one source). The fish received from each 
+vessel should have its own ID-code, also the mixed 
+one, while the records of the processor should 
+indicate the ID-codes of all the fish that formed the 
+new product with a new ID-code. 
+IUU fish infiltration: Only the fish received from 
+one vessel has ID-codes, while the one from the 
+other boats is derived from IUU activities, and does 
+not have ID-codes. The processor mixes the fish 
+from all the vessels and gives the new product (the 
+mixed fish) a new ID-code that relates only to the 
+one form the legitimate fishing vessel. In this case, 
+checking the weight of the received fish and the 
+delivered one would indicate irregularities, and a 
+further investigation will discover the IUU fish. 
+ 
+3. Splitting. During this transformation, one 
+traceable unit is split for use in different processes 
+or products. New ID-codes should be given to each 
+of the split units, while the records should indicate 
+the ID-code of the origin product. 
+Example: One supplier of cod transports the whole 
+day?s catch with the fishing vessel to the 
+slaughterhouse where the fish is pumped in 3 
+different basins. 
+Facilitating for IUU fish infiltration: The supplier 
+of cod gives non-unique ID-code to its catch before 
+this is pumped into 3 out of 4 basins, and the raw 
+ 
+ 
+ - 43 material from the basins is given again non-unique 
+ID-codes. The IUU fish pumped by an IUU vessel 
+in the 4th basin receives the same non-unique IDcode as the legitimate fish from basin 3. During the 
+inspection at the landing site, the fish from basin 4 
+is assumed to be legitimate while having the same 
+ID-code as the one in basin 3. 
+ 
+Note that not giving unique ID-codes to any of the trade units in any kind of 
+operation/transformation can immediately and permanently compromise the traceability 
+system, as the units can not be either tracked or traced correctly along the custody chain. 
+ 
+3.3.8 Critical traceability control points 
+If the infiltration of IUU fish in the supply chain is seen as a hazard which can be 
+prevented by means of traceability, then all the points along the custody chain where the 
+possibility of appearance of the hazard is high can be defined as critical traceability control 
+points. The fish and fish products can enter a legitimate fish supply chain through three 
+different points: at sea, at landing and at onshore distribution chain, as suggested in Figure 
+20. This distinction is important as different critical traceability control points can be 
+identified at each IUU fish entrance point. 
+ 
+Figure 20. IUU fish entering points into the legitimate fish supply chain. 
+ 
+ - 44 The critical traceability control point (CTCP) can be defined as a step at which the control 
+of traceability can be applied and it is essential to prevent, eliminate or reduce the entrance 
+of IUU fish in the legitimate fish supply chain. 
+ 
+ In order to identify the CTCP, this study proposes the following steps suggested in Figure 
+21. These steps were designed following the decision tree modelling method.70 In this 
+context, step is defined as an operation (e.g. harvesting, landing) or transformation (e.g. 
+splitting, joining, grouping) in the fish supply chain, from primary production to final 
+consumption, the point in the chain where exists the possibility for mixing of non-IUU fish 
+and IUU fish. Each of the points identified will need traceability controls to ensure that 
+mixing does not occur. Among the CTCP identified after this method there are, for 
+example: 1. at sea: 
+fishing, harvesting or 
+transhipment 
+operations; 2. at 
+landing: pumping 
+fish from the fishing 
+vessel into basins; 3. 
+at onshore 
+distribution chain: 
+packing crates with 
+fish brought by 
+different fishing 
+vessels or even fish 
+from the same vessel 
+but from a different 
+catch. 
+ 
+Figure 21. Decision 
+tree to identify critical 
+traceability points in 
+the fish supply chain. 
+ 
+70 Miles, M.B.; Huberman, A.M. (1994), page 185. 
+ 
+ - 45 The identification of CTCP along the fish supply chain is important as it indicates the 
+weakest links of the custody chain; the points where the entrance of IUU fish in the 
+legitimate trade could be stopped or reduced by means of traceability. 
+ 
+ 
+3.4 Analytical methods used in fish traceability investigations 
+Traceability documentation is the paper trail that must accompany a product and contain 
+all pertinent data to trace its origin and life-history. It includes species, ingredients, origins, 
+manufacturing processes, temperature logs, etc.71 Full traceability will help to follow up 
+honestly produced and handled products, but because they are honestly produced and 
+treated it is not to be expected that they will also be correctly labelled. For example, more 
+than one-third of all the fish from the US market is mislabelled, for different reasons: 
+hiding IUU fish, selling under-utilised fish with a bad image at a higher price, profiting on 
+account of legitimate eco-labelled products72. Sometimes the products appear to be 
+perfectly traceable, but they are in fact fraudulent, in which case fisheries forensics has to 
+be applied. 
+ 
+In traceability investigations, the target could be finding the geographical origin of the 
+food/food product (geographical traceability) or to correctly identify the individual animal, 
+breed or species (genetic traceability). Analyses performed on a sample to assess whether 
+the product is indeed what the label says are called authentication analyses. The methods 
+used in these analyses can be categorized into: physicochemical techniques (using the 
+variation of the radioactive isotope content of the product, spectroscopy, pyrolysis or 
+electronic nose), biological techniques (using the analysis of total bacterial flora through 
+many techniques such as Denaturing Gradient Gel Electrophoresis (DGGE) or DNA 
+chips), biochemical techniques (such as API galleries, analysis of antibiotic resistance and 
+ELISA tests) and molecular biological techniques (such as DGGE or Single Strand 
+Conformation of Polymorphism (SSCP)).73 All these methods need the construction of 
+databases with authentic material so that unknown samples can be analysed under the same 
+conditions as the reference material. The results are then statistically analysed to see 
+whether the unknown matches the authentic sample, or samples suitable as substitutes, or 
+ 
+71 Martinez, I., James, D., Loréal, H. (2005), page 28. 
+72 Jacquet, J. L.; Pauly, D. (2008). 
+73 Aarnisalo, K.; Heiskanen, S.; Jaakkola, K.; Landor, E. and Raaska, L. (2007), page 34. 
+ 
+ - 46 whether it does not match any of the material included in the database (if a new species is 
+used). In order to reduce the likelihood of not identifying the samples it is useful to have as 
+large a database of known reference material as possible.74 
+ 
+Genetic traceability is based on the identification of both animals and their products 
+through the study of DNA, using the four most important features of the DNA molecule: 
+enormous variability among individuals; inalterability during animal life; stability to the 
+different treatments of processed food; it is present in every cell of the organism. 
+ 
+Once the DNA is extracted from the chosen matrix (it can either be fish tissue, blood, 
+muscle, skin, or even a processed food such as fish fingers or canned tuna) it is analyzed 
+by molecular markers to obtain a fingerprint or specific allelic frequencies allowing for 
+individual, breed or species identification. Since the introduction of the polymerase chain 
+reaction (PCR) in 1989, many different markers have been discovered and studied. At 
+present the most widely used are microsatellites also known as short tandem repeats (STR), 
+and single nucleotide polymorphism (SNP). The use of these technologies in fish and their 
+products is just an extension of techniques already in use for human testing and routinely 
+applied in forensic casework.75 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+74 Martinez, I., James, D., Loréal, H. (2005), page 37. 
+75 Dalvit, C.; De Marchi, M. and Cassandro, M. (2007), page 445. 
+ 
+ - 47  
+4. TRACEABILITY AND IUU FISHING DETERRENCE, ANALYSIS OF LINKS 
+ 
+4.1 Introduction 
+In order to analyse if the traceability related provisions of EU Regulation 1005/2008 and 
+EU Regulation Proposal 2008/0216 (CNS) are both relevant for IUU fishing deterrence and 
+fulfilling the chain of custody traceability requirements, two models were designed. Model 
+1 was conceived to identify the overlapping of the necessary data for identifying IUU 
+components (actors or products) with the traceability data recorded in the documentation 
+imposed by the legal documents at each critical traceability control point. Model 2 was 
+designed to identify the fulfilment of the chain of custody requirements along the 
+traceability control points. Using the earlier train metaphor, the first model analysed if the 
+data stored in the carriages are sufficient/adequate for stopping IUU fish to enter the EU 
+market, while the second model analysed if the train track is properly designed to carry the 
+carriages. In both examples, the train was attaching new carriages only in the critical 
+traceability control points. 
+ 
+As related issues, eco-labelling and genetic traceability aspects were included after the 
+discussion of the models? results. 
+ 
+4.2 Method: description, materials, premises, limitations, suggestions 
+4.2.1 General methodology and materials 
+Due to the complex nature of this research, a mixed methods data analysis was used in 
+order to comprise the qualitative data in a quantitative manner.76 The study followed the 
+usual steps of mixed data analysis (data reduction, data display and data transformation), 
+where the second step involved the most troublesome decision of choosing a proper 
+graphical display for the designed model. 
+ 
+The models passed through subsequent stages of partially ordered cross-case matrices and 
+case-ordered descriptive matrices until they had reached the final form of case-ordered 
+predictor-outcome N-way matrices. Predictor-outcome matrices align cases on a main 
+outcome or criterion variable, and provide data for each case on the main predictor 
+ 
+76 Onwuegbuzie, A.J.; Dickinson, W.B. (2008), page 205. 
+ 
+ - 48 variables thought to be the most important contributors to the outcome.77 This kind of 
+matrices is deemed useful when the analysis has some sort of inferential and explanatory 
+aim, rather than just visualization and recognition of patterns. The purpose of this study was 
+not only to barely present the available data comprised in the trade documents, and to find a 
+pattern between document cases, but to predict if the information will fit a certain purpose. 
+The N-way matrices were, thus, chosen due to their power to handle the complexity of the 
+clustered predictors and cases included. 
+ 
+The legal material used was the text of EU Regulation 1005/2008), as found in the Official 
+Journal of the European Union, and EU Regulation Proposal 2008/0216 (CNS) as found in 
+the Procedure file78 (the original text was corroborated with the Parliament legislative 
+resolution). 
+ 
+4.2.2 Model 1: Acquisition of IUU fishing identification data by means of traceability 
+a. Description and materials 
+The N-way model designed for the identification of overlap of IUU components (actors or 
+products) and traceability data, as recorded in the documentation imposed by the 
+Regulations at each critical traceability control point, is based on the following series of 
+steps. In order to improve readability some simple examples are given. 
+ 
+1. Identification of the IUU fish entrance points in the legitimate fish supply chain, of the 
+associated critical traceability control points and of their linked legally assigned 
+documents. The last item (legally assigned documents) will be displayed in the results 
+matrix, in columns clustered according to the IUU fish entrance point. The requirements of 
+these documents form the first set of data that is assessed against the one defined at step 2 
+of the method (IUU operations identifiers). 
+Example: At the IUU fish entrance point ?at sea?, one of the critical traceability 
+control points is ?the operation of transhipment?, while the operation linked 
+document assigned by EU Regulation Proposal 2008/0216 (CNS) is ?the 
+transhipment declaration?. The term ?transhipment declaration? will be displayed in 
+the results matrix, and its data requirements will be assessed in connection with the 
+IUU fishing identifiers. 
+ 
+77 Mile, M.B.; Huberman, A.M. (1994), page 213. 
+78 http://www.europarl.europa.eu/oeil/file.jsp?id=5715242 (accessed: 12.05.2009). 
+ 
+ - 49 As the display form of the model is a case-ordered predictor-outcome N-way matrix, the 
+following steps (2 to 7) define the predictors, which are displayed in rows, clustered 
+according to their prediction value: IUU fishing deterrence data, traceability, law 
+jurisdiction and miscellaneous. 
+ 
+2. Designation of the identifiers of the different necessary information for finding IUU 
+operations components. These identifiers are circumscribed by descriptors (the generic 
+class) and parameters (the specific class). These identifiers are derived from fisheries 
+management measures79 , and the definitions of IUU fishing80 and IUU fishing vessel81. 
+Example A. Identify the management measure: area X is closed for fishing all year 
+round. Identify the illegal fishing activity: fishing at any time in area X. The 
+identifier is, thus, a combination of a descriptor (right or wrong place) and a 
+parameter (area of catch). During the control of any of the documents required in 
+the chain of custody it can be scrutinized whether or not the area of catch is right, 
+and whether or not the catch is from area X. 
+Example B. Identify the management measure: IUU fishing vessel owners should be 
+excluded from trade. An appropriate descriptor for such identifier could be: bad will 
+vessel owner. Specific parameters for such identifier could be: name of the vessel 
+owner + address of the vessel owner. When a certain vessel is identified as engaged 
+in IUU operations, by finding the name of its owner the competent authority of the 
+Member State/third-country involved can exercise its control over nationals engaged 
+in IUU fishing. 
+3. Inclusion of the unique identification and weighing traceability requirements, as 
+definitive components of a properly designed traceability system for fishery products. Each 
+legal document is scrutinized for occurrence of general or specific requirement of assigning 
+unique ID-codes to fish trade units. Further, each legal document is scrutinized for 
+adequate inclusion of information on whether the fish has to be weighed on scales approved 
+by competent authorities before entering distribution chain onshore. 
+ 
+ 
+ 
+79 FAO (2003) and FAO (1997). 
+80 FAO (2001). 
+81 EU Regulation 1005/2008, Article 3. 
+ 
+ - 50 4. Inclusion of the validation of documents parameter. The validation of documents by a 
+competent authority was assimilated by this study to a second-party certification, as defined 
+in Chapter 3.2.3 of this paper. This type of validation grants credibility to the data included 
+in the document. 
+5. Inclusion of the exemption parameter. Sometimes, granting exemptions from legal 
+requirements leads to non-unitary application of the law. If the law is not applicable to all 
+kinds of fishing vessels, catch, operators and others, it may create a loophole that can be 
+exploited by IUU operators. The exact identification of the exemption, of the loophole, and 
+of how this can be abused by IUU operators falls outside the scope of this study. 
+Example: If the requirement for filling in a transport document has an exemption in 
+a certain case, IUU operators may concentrate their transport activities to comply 
+with this exemption. 
+6. Inclusion of the cross-reference documents parameter. The study will search if the 
+legislation requires that each document issued at any link of the custody chain has to 
+contain a reference to the next document up or down the chain. This requirement it is not 
+essential for traceability, but it can facilitate it. 
+Example: If the sales note specifies the number of the catch certificate, it will be 
+easier to trace the product. 
+7. Inclusion of the type of fishing vessel: community vessel (as defined in EU Regulation 
+1005/2008 Article 2(6): flying the flag of a Member State and registered in the 
+Community); vessels flying the flag of a member state other than Community fishing 
+vessels; third country vessels. This parameter is relevant in order to assess if the legislation 
+applies in a unitary way to all fishing vessels engaged in trade with the Community, and to 
+determine the jurisdiction of the norm. 
+8. Analysis of the link between N- predictors (the IUU operations information identifiers, 
+traceability requirements restricted for the purpose of this model to unique identifiers and 
+weighing, jurisdiction of the law and miscellaneous) and the requirements for product data 
+imposed for each document by the Regulations. The rating system simple states: ?NA? = 
+not applicable; ?x?=existent; ?\?=non-existent. 
+Examples: If during the analysis it is found that the requirement to state the name of 
+the buyer in the sales note exists in EU Regulation Proposal 2008/0216 (CNS), then 
+the parameter ?operator up? will be rated as ?x? (existent) in the box where the 
+?sales note? column intersects the ?operator up? row. If it is found that the 
+requirement to give unique identification to trade units does not exist in the catch 
+ 
+ - 51 certificate, the parameter ?unique identification? will be rated as ?\? (non-existent) 
+in the box where the ?catch certificate? column intersects the ?unique identification? 
+row. As the existence of VMS on board of a shipping vessel is not related to the 
+cross-reference parameter, the later will be rated ?NA? in the box where the 
+?advance identification technology? column intersects the ?cross-reference to other 
+documents? row. 
+ 
+The model described above was run two times, once for the EU Regulation 1005/2008 and 
+once for the EU Regulation Proposal 2008/0216 (CNS), and the relevant Article number is 
+displayed in a N-way matrix. 
+ 
+b. Premises 
+When running the model and interpreting the results, some premises related to the 
+interpretation of the legal text should be borne in mind: 
+- in the case of EU Regulation Proposal 2008/0216 (CNS), as indicated by Article 48(4) 
+Principles of monitoring of marketing, the provisions of Article 50 Traceability were 
+corroborated with the ones of Articles 14 Logbooks, 19 Transhipment declaration, 21 
+Landing declaration, 54 Sales notes, 57 Take-over declarations, and 58 Transport 
+document. Therefore, the traceability requirements listed in Article 50 were included in the 
+data requirements for each document. 
+- the specific, but not the general, requirements of both Regulations were taken into 
+consideration, as the two legal texts are of regulatory type, rather than guidelines of 
+conduct, meant to be fully implemented among the Member States. 
+Example: In order to assess if a comprehensive traceability system was introduced 
+by the EU Regulation Proposal 2008/0216 (CNS), the general requirement of 
+Article 48(2) that reads ?All lots of fishery and aquaculture products shall be 
+traceable and the operators shall be able to identify the origin and destination of lots 
+from catching or harvesting to final consumer? was not taken at face value. Instead, 
+the specific requirements for traceability systems disseminated along the entire 
+document were assessed for consistency. 
+ 
+ 
+ 
+ 
+ 
+ - 52 4.2.3 Model 2: Assurance of chain of custody by means of traceability 
+The model designed to define the fulfilment of the chain of custody requirements along the 
+traceability control points is based on the following steps, which bear resemblances to the 
+methodology used in Model 1. 
+ 
+As the display form of the model is a case-ordered predictor-outcome N-way matrix, step 1 
+defines the predictors. These are displayed in rows, clustered according to their prediction 
+value: control/management system in place, confirmation of inputs, secure product 
+labelling etc. 
+ 
+1. Identification of the chain of custody requirements. These requirements are 
+circumscribed by descriptors (the generic class) and parameters (the specific class). They 
+were derived from chain of custody documentation used in practice82. 
+2. Identification of the general critical traceability control points for each of the legal 
+document: at sea, at landing, and along the onshore distribution chain. Procedures are 
+identical for the two legal texts analyzed. 
+3. Analysis of the link between the chain of custody requirements and the correspondent 
+legal provision assurance at each general critical traceability control point. The rating 
+system utilized to classify the entries was: ?NA? = not applicable; ?x?=existent; and 
+?\?=non-existent. If at least for one of the links of the custody chain, clustered in 
+accordance to critical traceability control points, the parameter requirement was deemed 
+fulfilled, the requirement was considered as ?existent? for the entire cluster. 
+Example: If it was found that the requirement of a label is fulfilled at the 
+transhipment link, the parameter ?presence of label? was rated ?x? (existent) in the 
+box where the ?1. at sea/ EU Regulation Proposal 2008/0216 (CNS)? column 
+intersects the ?presence of label? row, even though the label might not be required 
+to be present at other links from the same group (catching, harvesting). 
+ 
+The model was run simultaneously for both EU Regulation 1005/2008 and EU Regulation 
+Proposal 2008/0216 (CNS). 
+ 
+ 
+ 
+82 www.us.sgs.com/rd12.pdf (accessed: 05.05.2009); www.msc.org (accessed: 05.05.2009); Olsen, P. (2009) 2. 
+ 
+ - 53 4.3 Results 
+4.3.1 Output 
+The output matrices obtained for Model 1: Acquiring IUU fishing identification data by 
+means of traceability are displayed in Tables 4 and 5. The output matrix for Model 2: 
+Assurance of chain of custody by means of traceability is given in Table 6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 54  
+Table 4. Output of Model 1: Acquisition of IUU fishing identification data by means of traceability. Analysis of EU Regulation Proposal 2008/0216 (CNS). 
+IUU operations identifiers EU Regulation Proposal 2008/0216 (CNS) 
+Descriptor Parameter 1. at sea 1. at sea 1. at sea 2. at landing 2. at landing 2. at landing 2. at landing 
+ID technology Logbook Transhipment Landing Sales Take-over Transport 
+1. Type of fishing declaration declaration note declaration document 
+activity Art. 9,10,11 Art. 14, 50 Art. 19, 50 Art. 21, 50 Art. 54, 50 Art. 57, 50 Art. 58, 50 
+A. Illegal 1. genuine species/ 1.1 species composition by common name NA x x x x x x 
+(1 to 16) population identification 1.2 species composition by scietific name NA x x x x x x 
+B. Unreported 1.3 product code NA \ \ \ x x x 
+(9, 10, 11, 12) 2. catch on/off season 2.1 date of catch NA x x x x x x 
+C. Unregulated 3. time effort limit 3.1 times of harvesting NA x x \ x x x 
+(10, 12, 13, 16) 4. right or wrong place 4.1. area of catch NA x x x x x x 
+5. licenced or not 5.1 licence number NA \ \ \ \ \ \ 
+5. 2 valid to NA \ \ \ \ \ \ 
+6. appropiate gear 6.1 gear type NA x x x x x x 
+6.2 by-catch avoidance/reduction devices NA \ \ \ \ \ \ 
+6.3 technical specifications NA \ \ \ \ \ \ 
+7. catch limit 7.1 weight of catch per each species NA x x x x x x 
+8. catch size 8.1 minimum fish size NA \ \ \ \ \ \ 
+9. discards 9.1 volume of discards NA x NA NA NA NA NA 
+10. bad will vessel owner 10.1 registered vessel owner name NA \ \ \ x x X 
+10.2 registered vessel owner address NA \ \ \ \ \ \ 
+11. IUU vessel or not 11.1 vessel name NA x x x x x x 
+11.2 vessel flag NA x \ \ \ \ \ 
+11.3. vessel call sign NA x \ \ \ \ \ 
+11.4 vessel EU/IMO/Loyd's number NA x \ \ x x x 
+11.5 types of processing authorised on board NA \ \ \ \ \ \ 
+12. advance technological 12.1 VMS x NA NA NA NA NA NA 
+identification 12.2 AIS x NA NA NA NA NA NA 
+12.3 VDS x NA NA NA NA NA NA 
+13. IUU port 13.1 port name NA NA x \ x x \ 
+13.2 destination port NA NA x NA NA NA NA 
+13.3 date of landing NA NA NA NA x x \ 
+14. bad will operators 14. 1 name of operator up NA NA x \ x x x 
+14.2 name of operator down NA NA x x x \ \ 
+15. operation date 15.1 operation date NA \ \ \ x x x 
+16.conformity with 16.1 references of applicable NA \ \ \ \ \ \ 
+management measures conservation and management measures 
+3. Weighing of product at all stages NA x x x x x x 
+2. Unique identification 1.1 unique lot number NA \ \ \ \ \ \ 
+4. Validation NA C C C C C C 
+5. Exemptions x x x x x x x 
+6. Cross-reference to other documents NA \ \ \ x x \ 
+7. Vessels 1. community fishing vessels x x x x x x x 
+ 2. vessels flying the flag of a member state other than community fishing vessels \ \ \ \ \ \ \ 
+3. third country fishing vessels x x \ \ \ \ \ 
+# VMS=Vessel Monitorin System; AIS= Automatic Identification System; VDS=Vessel Detection System. 
+# NA = not applicable; X = existent; \ = not existent; C = computerised 
+ 
+ - 55  
+ Table 5. Output of Model 1: Acquiring IUU fishing identification data by means of traceability. Analysis of EU Regulation 1005/2008. 
+IUU operations identifiers EU Regulation 1005/2008 
+Descriptor Parameter 1. at sea 1. at sea 1. at sea 2 . at landing 2 . at landing 2 . at landing 3. onshore distribution chain 
+ID technology Logbook Transhipment Catch Re-export Transport Processing plant 
+1. Type of fishing transport doc. certificate certificate document certificate 
+activity \ \* Art. 14, 19 (4) Art. 14 Art. 21 Art. 14 (1) Art. 14 (2) 
+A. Illegal 1. genuine species/ 1.1 species composition by common name NA \* \ ? ? \ \ 
+(1 to 17) population identification 1.2 species composition by scietific name NA \* \ ? ? \ \ 
+B. Unreported 1.3 product code NA \* x x x \ \ 
+(9, 10, 11, 12) 2. catch on/off season 2.1 date of catch NA \* \ x \ \ \ 
+C. Unregulated 3. time effort limit 3.1 times of harvesting NA \* \ \ \ \ \ 
+(10, 12, 13, 16) 4. right or wrong place 4.1. area of catch NA \* \ x \ \ \ 
+5. licenced or not 5.1 licence number NA \* \ x \ \ \ 
+5.2 valid to NA \* \ x \ \ \ 
+6. appropiate gear 6.1 gear type NA \* \ \ \ \ \ 
+6.2 by-catch avoidance/reduction devices NA \* \ \ \ \ \ 
+6.3 technical specifications NA \* \ \ \ \ \ 
+7. catch limit 7.1 weight of catch per each species NA \* x x x \ x (total catch, 
+ca tch pro ces s ed 
+pro ces s ed fis hery pro duct) 
+8. catch size 8.1 minimum fish size NA \* \ \ \ \ \ 
+9. discards 9.1 volume of discards NA \* \ \ NA NA NA 
+10. bad will vessel owner 10.1 registered vessel owner name NA \* x \ \ \ \ 
+10.2 registered vessel owner address NA \* \ \ \ \ \ 
+11. IUU vessel or not 11.1 vessel name NA \* x x \ \ x 
+11.2 vessel flag NA \* \ x \ \ x 
+11.3. vessel call sign NA \* x x \ \ \ 
+11.4 vessel EU/IMO/Loyd's number NA \* x x \ \ \ 
+11.5 transport vessel name NA \* x x \ x NA 
+11.6 types of processing authorised on board NA \* \ x \ \ \ 
+12. advance technological 12.1 VMS \ \* NA NA NA NA NA 
+identification 12.2 AIS \ \* NA NA NA NA NA 
+12.3 VDS \ \* NA NA NA NA NA 
+13. IUU port 13.1 port name NA \* x \ NA \ \ 
+13.2 destination port NA \* x x NA \ NA 
+13.3 date of landing/transhipment NA \* x \ NA \ NA 
+13.4 transhipment port name NA \* x x NA \ NA 
+14. bad will operators 14. 1 name of operator up NA \* x x \ \ x 
+14.2 name of operator down NA \* x x x x x 
+15. operation date 15.1 operation date NA \* \ x x \ x 
+16.conformity with 16.1 references of applicable NA \* \ x \ NA NA 
+management measures conservation and management measures 
+17. nature of fishery product ? NA \* x \ \ \ \ 
+3. Weighing of product at all stages NA \* \ x \ \ \ 
+2. Unique identification 1.1 unique lot number NA \* \ \ \ \ \ 
+4. Validation NA \* \ x x \ x 
+5. Exemptions NA \* \ x x \ \ 
+6. Cross-reference to other documents NA \* \ x x \ x 
+7. Vessels 1. community fishing vessels x \* x x x x x 
+ 2. vessels flying the flag of a member state other than community fishing vessels \ \ \ \ \ \ \ 
+3. third country fishing vessels x \* x x x x x 
+# VMS=Vessel Monitorin System; AIS= Automatic Identification System; VDS=Vessel Detection System. 
+# NA = not applicable; X = existent; \ = not existent; \* = not existent here but the requirment is dealt with in EU Regulation Proposal 2008/0216 (CNS). 
+ 
+ - 56  
+Table 6. Output of Model 2: Assurance of chain of custody by means of traceability. Analysis of EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 (CNS) . 
+Chain of Custody Requirements Critical Traceability Control Points 
+(Descriptor & Parameter) 1 at sea 2 at landing 3. onshore distribution chain 
+( x & x.1 ) EU P EU R EU P EU R EU P EU R 
+1. Control/management 1.1 Description of formal document control systems \ \ \ \ \ \ 
+system in place 1.2 Physical evidence of document control system x x x x x x 
+1.3 Designation of responsible authority x x x x x x 
+1.4 Training support to control \ \ \ \ \ \ 
+2. Confirmation of inputs 2.1 Evidence of weighed uniquely identified inputs \ \ \ \ \ \ 
+2.2 Evidence of accompanying documents x x x x x x 
+3. Separation and/or 3.1 Methods for identifying uniquely identified material throughout \ \ 
+demarcation of the production/storage chain, especially in the presence of \ \ \ \ 
+uniquely identified inputs non-uniquely identified material 
+and non-uniquely 3.2 Physical and/or temporal separation of uniquely identified \ \ \ \ \ \ 
+identified ones and non-uniquely identified production runs 
+3.3 Ability to record and recall the input/output weights of \ \ \ \ \ \ 
+different batch runs of uniquely identified material 
+4. Secure product 4.1 Presence of a label x \ x \ x \ 
+labelling 4.2 Security of label production \ \ \ \ \ \ 
+4.3 Uniqueness of the label \ \ \ \ \ \ 
+4.4 Adhesion of the label \ \ \ \ \ \ 
+4.5 Legibility of the label \ \ \ \ \ \ 
+4.6 Resistance to damage of the label \ \ \ \ \ \ 
+4.7 Facility to capture for record of the label \ \ \ \ \ \ 
+4.8 Tamper-proof label \ \ \ \ \ \ 
+4.9 Label incapable of reuse \ \ \ \ \ \ 
+4.10 Incorporation of actor information on label \ \ \ \ \ \ 
+5 Unique identification 5.1 Unique identification of weighed outputs through labels \ \ \ \ \ \ 
+of outputs (see parameters 4.1-4.10) 
+5.2 Passing forward documents able to link to uniquely \ \ \ \ \ \ 
+identified products and batches 
+5.3 Passing forward documents have to include at least: 
+5.3.1 description of product x x x x x x 
+5.3.2 record of volume/quantity x x x x x x 
+5.3.3 unique identifier \ \ \ \ \ \ 
+5.3.4 expiry date (adapted to each critical control point) x x x x x x 
+6. Record keeping 6.1 System for recalling entire 'chain of custody' information \ \ \ \ \ \ 
+(species, operation data, volumes etc.) from product outputs 
+(batch numbers or other production identifiers) back to 
+uniquely identified inputs 
+6.2 System records kept for a minimum of X years. x x x x x x 
+# NA = not applicable; X = existent; \ = not existent; EU P = EU Regulation Proposal 2008/0216 (CNS); EU R = EU Regulation 1005/2008. 
+ 
+ - 57 4.3.2 Criteria for assessment of Model 1: Acquisition of IUU fishing identification data by 
+means of traceability results 
+The ratings displayed in Table 4 and 5 can be grouped into five different themes, depending 
+on the questions that are addressed in the analyses. This is further highlighted in the Tables 
+by the utilization of different shade codes for the different themes. 
+ 
+1. The IUU operations identification data ? do they cover or not all the critical control 
+points? (Or, re-visiting the metaphor: does the train stop or not at each station to attach 
+carriages?) 
+2. The IUU operations identification data ? do they exist or not? (The data relevant for IUU 
+operations identification: are they stored in the carriages or not). These are the ratings in the 
+white cells. 
+3. The IUU operations identification data ? are they traceable or not? These are the ratings 
+in the light grey cells; 
+4. Miscellaneous data related to traceability ? do they exist or not? These are the ratings in 
+the medium grey cells. 
+5. The IUU operations identification data ? are they retrieved for all the fishing vessels or 
+not (covering jurisdiction of the norm)? These are the ratings in the dark grey/white font 
+cells. 
+ 
+Acquisition of IUU fishing identification data by means of traceability. Analysis of EU 
+Regulation Proposal 2008/0216 (CNS). Model 1: Table 4. 
+ 
+1. The IUU operations identification data ? do they cover all the critical control points or 
+not? The legal text covers all the critical traceability control points at sea and at landing, 
+but it covers none of the items at the onshore distribution chain. This exposes the onshore 
+segment to possible infiltration of IUU fish. 
+ 
+2. The IUU operations identification data ? do they exist or not? Data are recorded with 
+respect to catch identification (species, time, area, weight of the catch), and are, thus, 
+relevant for the identification of the IUU fish (wrong species, time, area). However, there 
+are no recorded data that might help assessing if the minimum fish size requirements were 
+violated. This could be inferred (but still not totally proved) if technical specifications of 
+the gear (e.g. hook or mesh size) would have been provided. The provisions of Article 
+ 
+ - 58 48(3) were considered irrelevant from this point of view: by knowing only the area of catch 
+no one can say if the fish was of a certain size without assuming that everybody complies 
+with the rules in that area, which may not be the case. In addition, the fishing licence 
+number is not recorded in any of the documents, and this may raise problems in the rapid 
+identification of operators and quotas. Further, the recorded data for vessel identification is 
+not consistent throughout the documents, and this may cause a problem when the vessel 
+changes its registration name in a manner that facilitates IUU operations. Another weakness 
+is the absence of recorded data with respect to conformity with management and 
+conservation measures. Hence the legal provision is irrelevant with regard to especially 
+unregulated fishing. In addition, the data required for identification of operator backwards 
+and downwards are not consistently recorded, nor is the operation date. The ability to 
+retrieve related data at each point becomes, thus, restricted. 
+3. The IUU operations identification data ? are they traceable or not? There are no 
+requirements in place for a unique identification number of the fishery product lots. This 
+absence immediately and permanently hinders the traceability of products. 
+4. Miscellaneous data related to traceability ? do they exist or not? Both the requirement to 
+weigh the products on approved scales at all the critical control points covered by the legal 
+text, and the requirement for a computerised validation system are in place. However, there 
+are many openings for exemptions from all the requirements considered until now, by all 
+parameters, and at all the control points covered by the norm, hampering thereby the 
+unitary application of the law. Cross-references to other documents are poor, preventing the 
+traceability system to work at its maximum. 
+5. The IUU operations identification data ? are they retrieved or not for all the fishing 
+vessels (covering jurisdiction of the norm)? The legal norm covers entirely the community 
+vessels and partly the third country vessels (the later ones are subject to specific provisions 
+in EU Regulation 1005/2008). However, it provides no coverage to vessels flying the flag 
+of a Member State other than Community fishing vessels. Hence, no data can be retrieved 
+from this kind of vessels under this regulation. If these vessels are engaged in IUU 
+operations, the only way to stop them is by the Member state ensuring the control over its 
+nationals; it is therefore important to retrieve the name of the owners of any vessels and to 
+compare it against the existent black lists of IUU operations. 
+ 
+ 
+ 
+ - 59 It is worth noting, even though it is not related to the model, that while analysing the legal 
+provisions of this text it was realized that the allowable margin of error tolerance in the 
+logbook with regard to volume of fish stored on board was raised from the 5% originally 
+proposed (the European Commission Draft) to 10% (stated in the European Parliament 
+legislative Resolution with respect to the Commission Draft).83 This decision indicates a 
+higher tolerance towards catch that could be otherwise registered as illegal or unreported. 
+ 
+Acquisition of IUU fishing identification data by means of traceability. Analysis of EU 
+Regulation 1005/2008. Model 1: Table 5. 
+ 
+1. The IUU operations identification data ? do they cover or not all the critical control 
+points? The legal text covers all the critical traceability control points at sea and at landing, 
+but it covers only one such point at the onshore distribution chain. This exposes this last 
+segment to possible infiltration of IUU fish. 
+2. The IUU operations identification data ? do they exist or not (the data relevant for IUU 
+operations identification is it stored in the carriages or not)? The requirements for data 
+retrieval are inconsistent along the critical control points with respect to all parameters 
+other than the weight of the product. This can hinder the traceability of data and products. 
+There are just not enough data linked to the product to assess its non-IUU origin. 
+3. The IUU operations identification data ? are they traceable or no? No single 
+requirement is in place for a unique identification number of the fishery products. This 
+hinders immediately and permanently the traceability of products. 
+4. Miscellaneous data related to traceability ? do they exist or not? The weighing 
+requirement is existent, but in an inconsistent manner, facilitating, thus, IUU fish 
+infiltration. Further, the validation requirements exist only in two cases, and the credibility 
+of the operations becomes questionable. Cross-references to other documents are scant, 
+preventing the traceability system to work at its best level. On the other hand, the law does 
+not provide many exemptions, ensuring therefore a more unitary application. 
+5. The IUU operations identification data ? are they retrieved or not for all the fishing 
+vessels (covering jurisdiction of the norm)? The legal norm covers entirely the Community 
+vessels and the third country vessels. But again, it fails to cover the vessels flying the flag 
+of a Member State other than Community?s fishing vessels. 
+ 
+83 European Parliament legislative resolution of 22 April 2009 (T6-0255/2009), at 
+http://www.europarl.europa.eu/oeil/file.jsp?id=5715242 (accessed: 09.05.2009). 
+ 
+ - 60 4.3.3 Model 2: Assurance of chain of custody by means of traceability results 
+The results displayed in Table 6 can be interpreted from one perspective: are any chain of 
+custody requirements included in EU Regulation 1005/2008 and EU Regulation Proposal 
+2008/0216 (CNS)? The overall outcome is that, with some few exceptions, there are no 
+such requirements incorporated in the legal text. As a consequence ?black fish? has the 
+possibility to infiltrate into the legitimate trade. The analysis reveals that there are some 
+rules in both legal texts that lay a certain basis for a chain of custody (e.g. the designation 
+of the responsible authority; the keeping of records for a minimum of X years), but they are 
+only isolated cases. Moreover, the EU Regulation Proposal 2008/0216 (CNS) is a step 
+ahead of EU Regulation 1005/2008, by imposing the existence of a label requirement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 61  
+5. DISCUSSION AND CONCLUSIONS 
+ 
+5.1 Discussion 
+5.1.1 The Models 
+Though designed to address various purposes of the new Common Fisheries Policy, the aim 
+of the Regulations was, allegedly, the ambition to put up a comprehensive traceability 
+system as a management tool to deter IUU fishing activities. Both EU Regulation 
+1005/2008 and EU Regulation Proposal 2008/0216 (CNS) are regulatory type norms, to be 
+obligatorily incorporated into in the legal system of all member states. Therefore, their 
+provisions have to be clear and specific. 
+ 
+The aim of this study was to assess if the legal requirements fit the purpose of the law, that 
+is if the evidence found in the texts indicates a comprehensive traceability system or not. 
+This is a novel approach to both EU Regulation 1005/2008 and EU Regulation Proposal 
+2008/0216 (CNS) from a dual perspective: IUU fishing deterrence and traceability. So far, 
+extensive studies have been carried out to assess the impact of the first norm on EU trade 
+with third parties, particularly developing countries (e.g. Tsamenyi, M. et al. (2009) ? 
+Fairer Fishing? The Impact on developing countries of the European Community 
+Regulation on IUU Fisheries; Tsamenyi, M. et al. (2008) ? Development impact of the 
+Council Regulation establishing a European Community system to prevent IUU fishing on 
+Commonwealth ACP Member countries). Within the EU some research is also being done 
+with respect to the operational implementation of the same norm (e.g. Larsen, E.P. (2009) ? 
+Traceability in the Danish fish sector). The question of the applicability of the laws still 
+stands, as little or no research seems to be published on this subject. Nevertheless, the 
+clarification of this particular issue was not an objective that the present study set out to 
+analyse. 
+ 
+The two models suggested here are preliminary, and both may need further refinement. 
+Model 1 ?Acquisition of IUU fishing identification data by means of traceability? could be 
+made more comprehensive. For this purpose the analysis of the catch documents proposed 
+by RFMOs could be included, as Article 13 Regulation 1005/2008 assimilates them to the 
+catch certificates defined in Article 12. To gain profoundness, more IUU fishing data 
+identifiers could be specified. Moreover, identifiers could be divided into several 
+ 
+ - 62 categories: technical identifiers, trade operators? identifiers, vessel identifiers, or others, in 
+order to improve detail. Model 2 ?Assurance of chain of custody by means of traceability? 
+could gain resolution if each group of general critical traceability points was broken down 
+into more specific components, like ?at sea: catching, transhipment?. This would improve 
+clarity and accuracy. The chain of custody parameters could also be disaggregated into subcomponents in order to improve depth of analysis. 
+ 
+In spite of their limitations, both Model 1 and 2 could be used to analyse, and rate 
+accordingly, any legal text that puts into place a traceability system for the fish supply 
+chain. Moreover, Model 1 could be used not only for analysing a legal norm, but also be 
+applied to any singular document required at critical traceability control points. In a similar 
+way, Model 2 could be used to analyse a self-standing traceability system implemented by 
+any company. Because the rating system is straightforward, as existence and non-existence 
+are not matters of interpretation but of strict identification, both models are replicable. 
+Thus, anyone following the named method should achieve identical results, provided that 
+the same predictors are used and identical requirements of the chain of custody are adopted. 
+ 
+The comprehensive display and the multitude of inferences that can be made are probably 
+the strongest assets of the models used. Nevertheless, at some point their wideness and 
+depth could be also the weakest asset, as the multiple-entry format may seem intricate to 
+some. However, being a three fold study (IUU fishing, traceability, EU law), the chosen 
+method seems to be appropriate, as it enables the integration of all the data in a readable, 
+predictable and parsimonious manner. 
+ 
+Based on the results of Model 1, this study reveals that the data necessary for identification 
+of the IUU fish and operators is not constantly recorded at each critical traceability point by 
+the documents required by EU Regulation Proposal 2008/0216 (CNS) and EU Regulation 
+1005/2008. Thus, the data traceability scheme can only deficiently, if hardly, be used in the 
+deterrence of IUU operations. Moreover, the unique identification requirement does exist 
+neither in EU Regulation Proposal 2008/0216 (CNS), nor in EU Regulation 1005/2008. 
+Thus, the system fails to fulfil the mandatory requirement of a traceability scheme. 
+ 
+ 
+ 
+ - 63 Based on the results of Model 2, this study reveals that the traceability system put in place 
+by EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 (CNS) does not fulfil 
+the chain of custody requirements. It is, thus, also deemed weak and useless for deterrence 
+of IUU fishing. 
+ 
+5.1.2 Eco-labelling and IUU fish traceability 
+As presented in Chapter 3.2.4 of this paper, the eco-labelling certification process consists 
+of two steps: fishery certification and chain of custody certification of all individual 
+companies that will use the eco-label logo on their products. During the first step, the 
+certification body assures inter alia that the fishery and actors are not engaged in IUU 
+operations. Therefore, an eco-labelled certified fishery is to be assumed exempt of IUU 
+fishing, and products originating from it are deemed non-IUU commodities. The 
+information gathered during the pre-pre-assessment and pre-assessment phases of this step 
+could be used by public authorities to define their strategies with respect to IUU fishing84. 
+ 
+During the second step, the certification body verifies that a certified product originates 
+from a certified fishery and is not mixed with non-certified products. This will ensure that 
+?black fish? will not be mixed with the ?white? one, at any point of the custody chain. In 
+the end, the consumer buying an eco-labelled product is to remain assured that the 
+purchased fish is not coming from IUU operations. 
+ 
+Most of the eco-labelling schemes have chain of custody certification requirements, but 
+they are either weak or too general, with the exception of the Marine Stewardship Council 
+(MSC) scheme.85 This scheme defines parameters to be checked by the certification body, 
+and only if the requirements of these parameters are fulfilled at all individual companies 
+along the chain of custody the certification is awarded. In practice, the representative of the 
+certification body should visit on site all the individual companies along the custody chain, 
+not only their head quarters, and check all the requirements of the chain of custody 
+certification. 
+ 
+In this context, the most important challenges for eco-labels schemes to ensure the 
+traceability of the chain of custody, and helping deter IUU fishing, would be: 
+ 
+84 Carleton, C. (2009), pages 12-13. 
+85 Olsen, P. (2009) 2, page 17. 
+ 
+ - 64 - Developing measurable standards for chain of custody certification. In this respect, 
+there are examples of efficient and non-efficient practice. For instance, the standards 
+of ?Friend of the sea? are non-measurable ? e.g. ?The Organization guarantees that 
+a specific traceability system is in place in order to demonstrate that the product 
+audited respects all requirements of this Standard and there is no possibility of mix 
+with other products not under certification.?86 On the contrary, the standards of 
+MSC seem measurable ? e.g. ?Sales invoice able to be linked to certified products 
+and batches?.87 
+- Make sure that the certification body assesses all the involved individual 
+companies on site. 
+ 
+5.1.3 Authentication/genetic traceability and IUU fishing deterrence 
+Identifying the species to which a fish sample or product belongs is maybe the first 
+application of genetic traceability. Often used to discover mislabelled products, the species 
+authentication combined with conventional traceability can actually indicate the IUU fish. 
+For example, if the product is labelled as swordfish but is identified to be mako shark, this 
+is a case of mislabelling. If the investigation checks the documents that followed the 
+product along the custody chain, it may be discovered that in the catch area it is legal to 
+catch swordfish, but not mako sharks. In this case, the genetic trace would be necessary, 
+together with conventional traceability, to identify IUU fish. 
+ 
+With regard to fish stocks (exploited populations of a commercial species) and 
+identification88 of their geographic origin, even the most advanced techniques of genetic 
+analysis may not always provide unequivocal evidence. Genetic variation among 
+populations reflects levels of gene exchange among spawning stocks, and in principle it is 
+possible to allocate fish to the right stock of origin, even if only in a probabilistic sense. A 
+complication may arise, however, when fish form e.g. feeding aggregations. These may be 
+composed of multiple evolutionary populations, a mixture that is often found. 
+Consequently, molecular markers may be used to trace an individual salmon to the specific 
+river drainage where it hatched, but not to where it was caught. Therefore, the method can 
+ 
+86 Friend of the Sea fishery check list at http://host1.bondware.com/~fos/news.php?viewStory=74 (accessed: 
+09.05.2009). 
+87 Application form for MSC ?Chain of Custody? Certification, developed by MacAlister Elliott and Partners 
+Ltd (http://www.macalister-elliott.com/msc_certification/; accessed: 09.05.2009). 
+88 Ogden, R. (2008), page 466. 
+ 
+ - 65 hardly be used to detect IUU provenience with regard to area of catch, gear used, time of 
+catch, and other controls. Vary often genetic identification techniques can simply not reveal 
+these data. An additional flaw of genetic analysis is that it is sometimes difficult to resolve 
+?true? independent stock units. This is the case when even small amounts of gene flow 
+between stocks blur their genetic make-up.89 This is not infrequent, even for stocks that 
+were positively identified as possessing separated spawning populations by means of other 
+classical methods. In this case, it may be difficult to prove both the area of catch and the 
+stock origin. 
+ 
+On the other hand, genetic traceability90 at any point in the food supply chain is restricted to 
+demonstrating product receipt from one stage up in the chain and product provision to one 
+stage down in the chain. This logic removes the requirement for molecular genetic markers 
+to identify samples; instead they can be employed to exclude samples. Exclusion is simpler 
+than identification, as it does not require the same level of comparative population data or 
+statistical interpretation. By screening a batch of fish at any point in the supply chain, 
+subsequent adulteration can be detected by resampling. This can help uncover genetic 
+material that was not present in the original batch. Dense supply chain sampling allows 
+identification of the exact point at which illegal fish entered the chain. From a practical 
+fisheries perspective, such methods would not use DNA markers for tracing individual fish, 
+but instead use markers that characterize the genetic variation found within approved 
+fisheries. For example, microsatellite panels currently used to identify farmed salmon 
+broodstock from different suppliers could also be used to demonstrate changes in the 
+genetic composition of a batch of fish as it becomes infiltrated with IUU products along the 
+supply chain. The scale of sampling required would then be restricted to that typically used 
+to provide a comprehensive estimate of allele frequencies in a population genetic study. In 
+addition to enabling enforcement authorities to investigate IUU activity, genetic tracing 
+also provides a method that can be employed by the fisheries industry, or independent 
+certification schemes, to demonstrate the source of specific products. 
+ 
+ 
+ 
+ 
+89 ICES WGAGFM (2009), page 11. 
+90 Ogden, R. (2008), page 468. 
+ 
+ - 66 The EU Regulation Proposal 2008/0216 (CNS) took into consideration all these aspects. 
+But, owing to the cost entailed by traceability tools such as genetic analysis, it was decided 
+for the moment to only carry out pilot projects that broaden the research and information 
+base for future measures (Article 13 New Technologies). 
+ 
+5.1.4 Facilitating the traceability of fishery products 
+In order to facilitate the usage of traceability as a management tool in deterrence of IUU 
+operations, some measures could be implemented, including: 
+ 
+? The introduction of internationally coordinated customs codes.91 Where a species 
+subject to international trade is threatened by IUU fishing, the introduction of this kind 
+of codes would enable a more accurate assessment of the trade. Also, improved 
+coordination of product-specific codes between countries engaged in the trade of a 
+species would greatly assist in reducing the errors in converting processed weights to 
+live weight. 
+? The development of clear, parameterised international standards of fish/fishery 
+traceability (an example of such standard developed at EU level is CEN/CWA 
+14660:2003-Traceability of fishery products: Specification on the information to be 
+recorded in captured fish distribution chains). 
+? Wherever possible, the conventional traceability system should be backed up by 
+authentication/genetic traceability. 
+? The problem of transhipment must be addressed seriously and actively because it is a 
+very weal link in the chain of custody. Port States should be more demanding with 
+regard to accountability of landings. Where fish being landed, or trafficked, lacks full 
+accountability by internationally recognized standards, the whole operation should be 
+treated as suspicious. Even if the fish unaccounted for represents just a part of the total 
+volume. 
+? Real time update of IUU fishing black/white lists. 
+? Monitoring systems should be improved, for example by ensuring that devices cannot 
+be disabled, or the data tampered with.92 
+? Catch documentation schemes should be implemented more widely, together with trade 
+documentation schemes. It should be ensured that documentation accompany the fish in 
+ 
+91 OECD (2004), page 73. 
+92 OECD (2004), page 391. 
+ 
+ - 67 trade, starting from the point it is caught, all the way through the time it reaches the 
+consumer. These systems should be implemented with priority in important markets 
+(Japan, Chinese Taipei) and ports, especially ports of convenience (Las Palmas, Spain; 
+Port Louis, Mauritius).93 
+ 
+5.2 Conclusions 
+Primary analyses: 
+ 
+? Novel and comprehensive methods were developed to analyse the connexion between 
+IUU fishing deterrence and the fish traceability scheme put in place by the EU 
+Regulation 1005/2008 and EU Regulation Proposal 2008/0216 (CNS), using the caseordered predictor-outcome N-way matrix method. 
+? Although replicable, the models developed are preliminary, and further refinement can 
+improve their applicability. 
+? Neither EU Regulation 1005/2008 nor EU Regulation Proposal 2008/0216 (CNS) has 
+the power to effectively use traceability to deter IUU fishing: 
+ the traceability system set up is not viable, as it lacks the uniqueidentification requirement; 
+ the product data required by law is either insufficient or irrelevant to 
+scrutinize IUU fishing actors or products; 
+ the law does not assure the chain of custody traceability. 
+? Further studies can improve the suggested model under a de lege ferenda approach, i.e. 
+designing a traceability system that can effectively be used in deterrence of IUU 
+operations. 
+? Eco-labelling of fish products is a viable way of deterring IUU fishing through its 
+fishery certification and chain of custody components, provided that measurable 
+standards for chain of custody certification are developed and the certification body 
+assesses all the involved individual companies on site. 
+? Genetic traceability/authentication alone, although promising, still has moderate 
+applicability in the deterrence of IUU operations. To improve effectiveness it must be 
+used complementarily with the conventional traceability systems. 
+ 
+93 OECD (2004), page 392. 
+ 
+ - 68  genetic traceability of the species/stocks is the easiest and clear application 
+of this tool in IUU fishing deterrence; 
+ fish stock and geographic origin identification by means of genetic 
+traceability are not conclusive for identification of IUU fish; 
+ genetic traceability at any point in the food supply chain may be an 
+application that facilitates IUU fish identification, provided that a genetic 
+database of reference exists; 
+ the EU Regulation Proposal 2008/0216 (CNS) takes into account the new 
+genetic technologies, but owing to their cost these are still not operational. 
+ 
+Related findings: 
+ 
+? The provisions EU Regulation Proposal 2008/0216 (CNS) regarding the logbook are 
+insufficient to deal with unreported fishing. 
+? The provisions of EU Regulation 1005/2008 and EU Regulation Proposal 2008/0216 
+(CNS) leave outside their jurisdiction fishing vessels flying a flag of a Member State 
+other than Community vessels. 
+? The multitude of exemptions offered by both legal texts may easily lead to a nonunitary application of the law. 
+? The introduction of internationally coordinated customs codes and the development of 
+clear, parameterised international standards of fish/fishery traceability are just a few 
+examples of fishery management measures that can be taken to facilitate the traceability 
+of fisheries products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 69  
+REFERENCES 
+ 
+? Aarnisalo, K.; Heiskanen, S.; Jaakkola, K.; Landor, E. & Raaska, L. (2007) 
+Traceability of foods and foodborne hazards, Espoo, VTT Tiedotteita Research Notes 
+2395; 
+? Agnew, D.J.; Pearce, J.; Pramod, G.; Peatman, T.; Watson, R. et al. (2009) Estimating 
+the Worldwide Extent of Illegal Fishing, PLoS ONE 4(2): e4570. 
+doi:10.1371/journal.pone.0004570; 
+? Bollen, A.F.; Riden, C.P. and Opara, L.U. (2006) Traceability in postharvest quality 
+management, Int. J. Postharvest Technology and Innovation 1/2006. 
+? Bray, K. (2000) A global review of illegal, unreported and unregulated fishing, FAO; 
+? CAC/GL 60-2006 Principles for traceability / product tracing as a tool within a food 
+inspection and certification system, available at 
+http://www.codexalimentarius.net/web/standard_list.do?lang=en; 
+? Carleton, C. (2009) Do eco-labels have an impact on public institutions/policy 
+making?, Round Table on Eco-Labelling and Certification in the Fisheries Sector, The 
+Hague, Netherlands; 
+? Dalvit, C.; Marchi, M.D. and M. Cassandro (2007) Genetic traceability of livestock 
+products: A review, Meat Science, 77/2007; 
+? Derrick, S.; Dillon, M. (2004) A guide to traceability within the fish industry, SIPPO, 
+Eurofish, Humber Institute of Food & Fisheries; 
+? EFTEC (2008) Cost of IUU fishing in EU fisheries, Economics for the Environment 
+Consultancy Ltd, London; 
+? EJF (2005) Pirates and profiteers: how pirate fishing fleets are robbing people and 
+oceans, Environmental Justice Foundation, London, UK; 
+? European Commission (2008) Commission staff working document SEC(2008) 2761, 
+available at http://www.europarl.europa.eu/oeil/file.jsp?id=5715242; 
+? EU Official Journal L31/1 (2002); 
+? EU Official Journal L 286/1 (2008); 
+? European Parliament legislative resolution of 22 April 2009 (T6-0255/2009), at 
+http://www.europarl.europa.eu/oeil/file.jsp?id=5715242; 
+? FAO (1995) Code of Conduct for responsible fisheries, Rome; 
+ 
+ - 70 ? FAO (1997) Fisheries management, Technical Guidelines for Responsible Fisheries 
+4/1997; 
+? FAO (2001) 1 International Plan of Action to Prevent, Deter and Eliminate Illegal, 
+Unreported and Unregulated Fishing, available at 
+http://www.fao.org/DOCREP/003/y1224e/y1224e00.HTM 
+? FAO (2001) 2 - Product certification and eco-labelling for fisheries sustainability, 
+FAO Fisheries Technical Paper 422/2001; 
+? FAO (2002) 1 Implementation of the International Plan of Action to prevent deter and 
+eliminate IUU fishing, FAO Technical Guidelines for Responsible Fisheries 9/2002; 
+? FAO (2002) 2 Stopping illegal, unreported and unregulated fishing, Rome; 
+? FAO (2003) Fisheries management. 2. The ecosystem approach to management, 
+Technical Guidelines for Responsible Fisheries 4/2003; 
+? FAO (2009) Private standards in fisheries and aquaculture: current practice and 
+emerging issues, Globefish Research Programme 97/ 2009; 
+? FAO/WHO (2008) Procedural manual, Codex Alimentarius Commision; 
+? Frederiksen, M. (2006) Introduction to traceability, FAO and Eurofish International 
+Organisation Quality Assurance Challenges in the Seafood Industry, Copenhagen; 
+? GS1 - The GS1 Traceability Standard: What you need to know, at www.gs1.org; 
+? ICES WGAGFM (2009) Draft Report of the Working Group on the Application of 
+Genetics in Fisheries and Mariculture. 
+? Jacquet, J. L.; Pauly, D. (2008) Trade secrets: renaming and mislabelling of seafood., 
+Marine Policy 32/2008; 
+? Karlsen, K.M.; Olsen, P. and Storøy, J. (2006) TraceFish basert innføring av 
+sporbarhet i norsk fiskerinæring, Fiskeriforskning, Rapport 11/2006; 
+? Lupin, H. (2006) Traceability, FAO/FIIU available at 
+http://www.globefish.org/filedownload.php?fileId=359 
+? Martinez, I.; James, D.; Loréal, H. (2005) Application of modern analytical techniques 
+to ensure seafood safety and authenticity, FAO Fisheries Technical Paper 455/2005; 
+? Miles, M.B.; Huberman, A.M. (1994) Qualitative Data Analysis, Sage Publications; 
+? Moe, T. (1998) Perspectives on traceability in food manufacture, Trends in Food 
+Science & Technology 9/1998; 
+? MRAG & University of British Columbia (2008) The global extent of illegal fishing; 
+ 
+ - 71 ? MRAG (2005) Review of Impacts of Illegal, Unreported and Unregulated Fishing on 
+Developing Countries, Marine Resources Assessment Group Ltd , London, UK; 
+? OECD (2004) Fish piracy. Combating illegal, unreported and unregulated fishing; 
+? OECD (2004) Why fish piracy persists.The economics of illegal, ynreported and 
+unregulated fishing; 
+? Ogden, R. (2008) Fisheries forensics: the use of DNA tools for improving compliance, 
+traceability and enforcement in the fishing industry, Fish and fisheries 9/2008; 
+? Olsen, P. (2009) 1 Food traceability process mapping. Standard method for 
+amanlyzing material flow, information flow and information loss in food supply chains, 
+in Donnelly, K. AM.; Olsen, P. Harmonising methods for food traceability process 
+mapping and cost/benefit calculations related to implementation of electronic 
+traceability systems, Nofima Report 15/2009; 
+? Olsen, P. (2009) 2 Traceability: Definitions, drivers and standards, Round Table on 
+Eco-Labelling and Certification in the Fisheries Sector, The Hague, Netherlands; 
+? Opara, L.U. (2003) Traceability in agriculture and food chain: a review of basic 
+concepts, technological implications, and future prospects Food, Agriculture & 
+Environment 1/2003; 
+? Onwuegbuzie, A.J.; Dickinson, W.B. (2008) Mixed methods analysis and information 
+visualization: graphical display for effective communication of research results, The 
+Qualitative Report 13/2008; 
+? Pauly, D.; Christensen, V.; Guénette, S.; Pitcher, T.J.; Sumaila, R.; Walters, C.J.; 
+Watson, R. and Zeller, D. (2002) Towards sustainability in world fisheries, in Nature 
+418/2002, Nature Publishing Group, Macmillan Publishers Limited; 
+? Philips, B.; Ward, T.; Chaffee, C. (2003) Eco-labelling in fisheries. What is it all 
+about?, Blackwell Publishing; 
+? Pitcher, T.J.; Kalikoski, D.; Pramod, G. and Short, K. (2008) Safe Conduct? Twelve 
+years fishing under the UN Code; WWF; 
+? Pitcher, T.J.; Kalikoski, D.; Pramod, G. (2006) Evaluations of compliance with the 
+FAO (UN) Code of Conduct for responsible fisheries, Fisheries Centre Research 
+Reports 14(2)/2006, Fisheries Centre, University of British Columbia, Canada; 
+? Randrup, M. et al. (2008) - Simulated recalls of fish products in five Nordic countries, 
+Food Control 19/2008; 
+ 
+ - 72 ? Sumaila, R. (2008) The global state of IUU fishing. Regions, Quantities and values, 
+The 2nd Global Fisheries Enforcement Training Workshop, Trondheim, Norway; 
+? www.fisheries.ubc.ca/publications/reports/report14_2.php; 
+? http://www.globefish.org/filedownload.php?fileId=359; 
+? http://www.fao.org/DOCREP/003/y1224e/y1224e00.HTM; 
+? http://www.sporfori.fo/InEnglish/Ontraceability/InternalExternalTraceability/tabid/109/Default.aspx; 
+? http://www.fao.org/fishery/fishcode/en; 
+? http://www.tracefood.org/index.php/; 
+? http://www.codexalimentarius.net/web/standard_list.do?lang=en; 
+? www.gs1.org; 
+? http://www.europarl.europa.eu/oeil/file.jsp?id=5715242; 
+? www.fisheries.ubc.ca/publications/reports/report14_2.php; 
+? http://www.eubusiness.com/Fisheries/iuu-fishing-eu/; 
+? http://www.bordbiavantage.ie/bordbia/preview.asp?pid=3&mid=11&cid=37&id=37; 
+? http://www.iso.org/iso/iso_catalogue/faq_standards_2.htm; 
+? www.wikipedia.com; 
+? www.us.sgs.com/rd12.pdf; 
+? www.msc.org; 
+? http://host1.bondware.com/~fos/news.php?viewStory=74; 
+? http://www.macalister-elliott.com/msc_certification/. 
+ 
+ 
+ 
+ 
+ - 73 APPENDIX 1.94 Potential impacts of IUU fishing. 
+ 
+94 OECD (2004), pages 197 and 199. 
+ 
+ - 74 APPENDIX 2.95 
+Groups of important economic and social drivers of IUU fishing activities: 
+a. overcapacity in the global fishing fleet. Among developing countries, there is a growing 
+concern that the overcapacity problems of developed countries will spill over into IUU 
+fishing activities. Not offering scrapping incentives can also drive vessels-owners into IUU 
+fishing. 
+b. degree of MCS operations and their effect. The high cost of an efficient MCS system 
+can hinder coastal states, especially the developing countries, to ensure the legal 
+compliance in their EEZs. 
+c. level of sanctions against IUU fishing. Limited enforcement and the absence of severe 
+penalties can transform IUU fishing in a very profitable activity. The forfeiture of vessels 
+and catch could sometimes be more of an impediment to IUU fishing than fines. 
+d. management regimes. Countries with weak fisheries management regimes are more 
+often a source of vessels for IUU operations than the ones with strong fisheries 
+management. 
+e. weak international legal framework. Voluntary binding soft international legislation or 
+the lack of any legal provisions (e.g. safety and personnel requirements for fishing vessels 
+etc.), tax havens, open vessels registries, all these are incentives for IUU fishing activities. 
+f. unsatisfactory economical and social conditions of fishers. Poor livelihood conditions, 
+particularly in developing countries, influence fishers to engage in IUU activities. 
+g. market and value of the IUU fish. Most of the species targeted by IUU activities have a 
+very high market value; therefore, the economic gains from IUU fishing are often 
+substantial. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+95 OECD (2005), pages 37-40. 
+ 
+ - 75 APPENDIX 396 
+Available measures against IUU fishing activities 
+All countries - States should ratify international legal instruments related to 
+fisheries. 
+- Countries whose vessels take part in fisheries regulated by RFMOs 
+should become members of those organizations, or make their 
+vessels fish in such a way that they do not undermine the rules 
+created by those organizations. 
+- Each country should review its own fishing laws and practices to 
+see if they enable the use of all relevant tools in the IPOA-IUU. 
+- Countries should improve their MCS capacity and participate in the 
+International Network for the Cooperation and Coordination of 
+Fisheries-Related Monitoring, Control and Surveillance Activities. 
+- Governments can encourage fishers to comply with fishing rules 
+through positive actions (community education and other outreach to 
+fishers; ensuring that stakeholders participate in the development of 
+fishery rules; fostering peer pressure in favour of compliance; 
+creating systems for collecting information that are easy for fishers to 
+use). 
+- Countries should eliminate subsidies and other economic support, 
+which contribute to the build-up of excess fishing capacity. 
+- States have to take measures or cooperate to ensure that their 
+nationals do not support or engage in IUU fishing. 
+Flag countries 
+(countries that register 
+fishing vessels and 
+authorize vessels to fly 
+their flags) 
+- The State has responsibility under international law to control the 
+fishing activities of both fishing vessels and fishing support vessels 
+(such as transport vessels that receive the catch of fishing vessels and 
+supply vessels that bring fuel and provisions to fishing vessels), no 
+matter where the vessel operates. 
+- The State should ensure, before it registers a fishing vessel that it 
+can exercise its responsibility to control that the vessel does not 
+engage in IUU fishing. 
+- The States should ensure that there is a strong link between the 
+process by which they register fishing vessels and the process by 
+which they grant authorizations to fish. 
+- The States should register as many fishing vessels as possible, 
+preferably all of them, and to enter all of them on its record of 
+fishing vessels. 
+- The States should require all chartering arrangements to be fully 
+transparent. 
+- The State should issue an authorization to fish only to a vessel 
+properly registered in its territory and entered in its record of fishing 
+vessels. 
+- The States should prohibit their vessels from engaging in transshipment of fish at sea without prior authorization issued by the flag 
+State. 
+Coastal countries 
+(countries that border 
+ocean areas) 
+- The State should: keep a record of foreign vessels authorized to fish 
+in its waters; require foreign vessels to use VMS, such that the 
+coastal country has real-time or near real-time access to vessel 
+positions and receives regular data reports by VMS; require foreign 
+vessels, or a certain percentage of them, to carry independent 
+observers. 
+ 
+ 
+96 Based on FAO (2002) 1 and FAO (2002) 2. 
+ 
+ - 76 - The coastal State should request the flag State to guarantee that its 
+vessels being licensed do not have a history of IUU fishing before 
+licenses are issued by the coastal State. 
+- Coastal countries should consider requiring that all trans-shipments 
+take place in port or, at a minimum, require that trans-shipment at sea 
+ought to be done in accordance with proper controls and at locations 
+where inspectors can be present to check the details of the fish being 
+trans-shipped. 
+- A coastal State must work closely with other States and RFMOs on 
+different levels. 
+- The state should improve its MCS efforts. 
+Port countries 
+(countries to whose ports 
+fishing vessels come) 
+- A port State should require foreign fishing vessels seeking port 
+access to provide at a minimum: reasonable advance notice of their 
+entry into port; a copy of their authorization to fish; details of their 
+fishing trip and quantities of fish on board. 
+- If a port country has reasonable grounds for suspecting that a vessel 
+in its port has engaged in IUU fishing, the port country should: not 
+allow the vessel to land or trans-ship fish in its port; immediately 
+report the matter to the flag country, and if the suspected IUU fishing 
+may have taken place in another country?s waters or in waters 
+regulated by a regional fishery organization, immediately report the 
+matter to that country or organization. 
+Regional Fishery 
+Management 
+Organizations 
+Among things that regional fishery organizations can do are to: 
+- collect and disseminate information relating to IUU fishing; 
+- identify vessels that are engaging in IUU fishing and coordinate 
+measures against them; 
+- identify countries whose vessels are engaging in IUU fishing and 
+can urge identified countries to correct such behaviour; 
+- call on their members to take action against vessels without 
+nationality that are fishing in the relevant region; 
+- adopt rules to ensure that vessel chartering arrangements do not 
+lead to IUU fishing; 
+- adopt port inspection schemes, restrictions on trans-shipment at sea 
+and schemes creating a presumption that fish harvested by nonmember vessels in the relevant region should not be permitted to be 
+landed in ports of members; 
+- adopt catch certification and/or trade documentation schemes; 
+- adopt other market-related measures to combat IUU fishing. 
+National Plans of Action 
+ 
+The IPOA-IUU calls upon all countries to develop and adopt national 
+plans of action to further achieve the objectives of the IPOA-IUU. 
+Each country?s national plan of action should at least consider how 
+each of the basic tools could be put to use in the fisheries in which it 
+is involved. 
+Market/Trade measures - Market-related measures cover several types of controls on the 
+importation and exportation of goods, including: catch certification 
+and trade documentation requirements; import and export restrictions 
+and prohibitions; improvement of the transparency of their markets 
+to allow the traceability of fish or fish products; eco-labelling. 
+ 
+ 
+ 
+ 
+ 
+ - 77 APPENDIX 4. Relevant EU legislation for fish supply chain (the list is not exhaustive). 
+ 
+Regulation 1829/2003/EU Genetically modified foods and feeds 
+Regulation 1830/2003/EU Traceability and labelling of food products made from genetically 
+modified organisms 
+Directive 2001/18/EU Deliberate release of genetically modified organisms into the 
+environment 
+Directive 2001/95/EC General product safety 
+Directive 93/43/EEC Hygiene of foodstuffs 
+Directive 91/493/EEC Health conditions for the production and the placing on the market of 
+fishery products 
+Directive 89/396/EEC Indications or marks identifying the lot a foodstuff belongs to 
+Directive 2003/89/EC Amending Directive 2000/13/EC as regards indication of the 
+ingredients present in foodstuffs 
+Regulation 2847/93/EEC Establishing a control system applicable to the Common Fisheries 
+Policy 
+Regulation 2371/2002/EEC On the conservation and sustainable exploitation of fisheries 
+resources under the Common Fisheries Policy 
+Regulation 104/2000/EC On the common organisation of the markets in fishery and 
+aquaculture products 
+Regulation 2092/91/EEC On organic production of agricultural products and indications 
+referring thereto on agricultural products and foodstuffs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 78 APPENDIX 597. Standards, certification schemes and labels operating in fisheries and aquaculture 
+(the enumeration is not exhaustive). 98 
+ 
+97 FAO (2009), pages 16-17. 
+98 Note that animal welfare problematic is not addressed by any of these requirements, situation brought into 
+attention of stakeholders during the Round Table on co-labelling and certification in fisheries sector, held in 
+The Hague in April 2009. 
+ 
+ - 79 APPENDIX 6.99 Guide to unique identification of traceable units 
+ 
+In order to assure the efficiency of the traceability system, the traceable units have to be 
+uniquely identified. Furthermore, a minimum of additional information has to be linked to 
+the traceable units throughout their lifetime. Later on, these data may be accessed via the 
+unique identification number. Common practice for creation of the smallest traceable unit 
+varies in different industries. In the fish farming business a bucket of roe, a full 
+containment of a well boat or a fish crate are typical TUs. In the capture fish sector, a crate 
+of fish is a typical TU. 
+ 
+The GS1100 numbering system 
+ 
+GS1 administers a global number system for identification and description of items. 
+Traceability standards recommend the use of the GS1 numbers for unique identification for 
+TUs and LUs. The concept of the GS1 128 symbology is to code a set of data elements 
+frequently used in trade and logistic (i.e. Net weight, Production date, etc) and explain the 
+meaning of the data elements by using a prefix called an Application Identifier (AI). 
+Hence, the AI identifies the meaning and the format of the data that follows it (data field). 
+In the example data (3101) 05545, 3101 is the Application Identifier telling that this data 
+element means Net weight with an accuracy of one decimal, and 05545 specifies the Net 
+weight to be 554,5 Kg. 
+ 
+The GS1 128 Symbology provides adequate predefined data elements to enable unique 
+identification of both Trade Unit and Logistic Unit. 
+ 
+Uniquely identifying the Logistic Unit 
+ 
+GS1 provides a globally unique data element for the identification of a Logistic Unit, 
+called SSCC (Serial Shipping Container Code). A pallet of fish crates or 20 meters 
+containers of fish are typical logistic units. Traceability standards require that the IDs of 
+ 
+99 http://www.tracefood.org/index.php/GTP:Unique_Identification (accessed: 01.05.2009). 
+100 GS1 is a global organization which main activity is the development of the GS1 System, a series of 
+standards designed to improve supply chain management. The GS1 Identification System provides two types 
+of identifiers. The first or primary identifiers are called GS1 Keys like the Global Trade Item Number 
+(GTIN) or Global Location Number (GLN). (www.gs1.com, accessed: 02.05.2009). 
+ 
+ - 80 the separate TU?s within the LU shall be linked to the LU identifier, in practice to the 
+SSCC. 
+ 
+The SSCC number structure is (00) 235467985462312345, were 00 is the Application 
+Identifier and the following figure is an 18 digit unique number. 
+ 
+Uniquely identifying the Trade Unit 
+ 
+The GS1 128 Symbology does not have one single data element for the unique 
+identification of a Trade Unit (i.e. a particular fish crate). However the symbology provides 
+a trade item number, named GTIN, which identifies a variant of Trade Units (i.e. crate of 
+20 Kg fresh Superior Atlantic salmon of 4-5 kg each fish). GTIN is an abbreviation for 
+Global Trade Item Number. 
+ 
+To uniquely identify the particular crate, one has to add one or more predefined data 
+elements. In the traceability standards this identifier is called GTIN+, where the + indicates 
+that additional information is needed for this purpose. 
+ 
+To make up the GTIN+, the GTIN (AI 01) must be combined either with a Batch number 
+(AI 10) and a Serial number (AI 21), or only with the Date and time of production (AI 
+8008). 
+ 
+GS1 defines the Batch number as an internal number of a production batch. It is common 
+practice to allocate this number to all produced units with similar properties (i.e. origin / 
+farm area, time of arrival, supplier, etc) and/or produced within a certain time period (i.e. 
+one hour, a shift, one day, one week, etc). Since most commonly many Trade Units are 
+given the same Batch number, unique identification of each separate Trade Unit demands 
+further specification. An appropriate solution is to allocate a Serial Number to each 
+produced Trade Unit (i.e. a meat crate). 
+ 
+Using example data, the GTIN+ applying the Batch- and Serial number looks as follows: 
+ 
+(01)07038010000065(10)123456(21)1234567890 
+ 
+ 
+ - 81 The second alternative is to make up a unique identification of a Trade Unit by combining 
+the GTIN and Date and Time of production (AI 8008). 
+ 
+Exemplified with real data GTIN+ may be presented as follows: 
+ 
+(01)07038010000065(8008)040915125603 
+ 
+The figures behind AI (8008) have a structured format, meaning year/ month/ time/ 
+minute/ second. 
+ 
+In some cases a Logistic Unit and a Trade Unit will be of equal size (i.e. a full containment 
+of a cargo boat carrying grain). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 82 APPENDIX 7101. Additional types of operations/transformations of traceable units and 
+their linked data. 
+1. Addition. During processing, additional 
+ingredient(s) are added to the product. Since the 
+ID-code is still unique to the product, it is 
+continued to be used although the processing 
+records should identify the ID-code(s) of the 
+ingredient(s) used. 
+Example: Brining operation. The same ID-code 
+would be kept by the fish after this process step, 
+although the processing records would show the 
+ID-code of the salt used to produce the brine (as 
+well as brine strength, time pf processing etc.) 
+ 
+3. Grouping. Trade units are grouped in a 
+logistic unit. The ID-codes of the separate TU?s 
+within the LU shall be linked to the LU 
+identifier. 
+Example: A slaughterhouse has defined the 
+day?s production of slaughtered salmon as a 
+batch. The batch is splitted to be packed in 
+crates (TUs), and the crates are arranged on 
+pallets (LUs). 
+ 
+4. Un-grouping. Logistic trades are un-grouped 
+in trade units. The ID-codes of the separate TUs 
+from within the LU have to be linked to the LU 
+identifier. 
+Example: A slaughterhouse produces pallets 
+(LUs) with crates (TUs) of 3-4 kg and 5-6 kg 
+fresh salmon. The LUs are transported to a 
+distribution terminal. One client wants 5? 
+pallets with crates of 3-4 kg, and 3? pallets with 
+crates of 5-6 kg. The pallets are un-packed, the 
+crates counted and packed again. 
+ 
+ 
+ 
+101 Based on Karlsen, K.M.; Olsen, P. and J. Storøy (2006), pages 11-12, and Derrick, S.; Dillon, M. (2004), 
+pages13-14. 
